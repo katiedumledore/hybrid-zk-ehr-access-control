@@ -1,0 +1,35 @@
+{
+  "network": "sepolia",
+  "chainId": 11155111,
+  "verifierAddress": "0xf07Fa9bC24648Dbfd0ab41B2623C43Fd829Ea363",
+  "hybridV4Address": "0x620f15963721bEA41ceEA5688b5223b340F1B867",
+  "deployer": "0x224C4D51861AD22c61D7355d6A68550050bDa367",
+  "timestamp": "2025-11-22T23:40:24.726Z",
+  "patientsStored": 16,
+  "patientDistribution": {
+    "sensitive": 8,
+    "routine": 8,
+    "total": 16
+  },
+  "model": "Hybrid V4 (Privacy-Enhanced)",
+  "version": "V4",
+  "privacyFeatures": [
+    "Unified requestAccess() interface",
+    "No pathway type in events",
+    "Internal routing only",
+    "Encoded proof format",
+    "Reduced metadata leakage"
+  ],
+  "circuitInfo": {
+    "constraints": 7281,
+    "file": "consent-verification-v2.circom",
+    "treeDepth": 4,
+    "maxPatients": 16
+  },
+  "storageGasUsed": "2942220",
+  "etherscanUrls": {
+    "verifier": "https://sepolia.etherscan.io/address/0xf07Fa9bC24648Dbfd0ab41B2623C43Fd829Ea363",
+    "hybridV4": "https://sepolia.etherscan.io/address/0x620f15963721bEA41ceEA5688b5223b340F1B867"
+  },
+  "description": "V4: Unified interface - Sensitive → ZK proof, Routine → RBAC (internal routing) - testnet deployment"
+}

@@ -1,0 +1,1872 @@
+{
+  "model": "All Non-ZK (Pure RBAC)",
+  "timestamp": "2025-11-16T11:31:10.256Z",
+  "contract": "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+  "dataset": {
+    "routine": 9,
+    "sensitive": 11,
+    "total": 20
+  },
+  "results": {
+    "routine": {
+      "iterations": 100,
+      "gasStats": {
+        "gas": {
+          "mean": 185626,
+          "median": 185458,
+          "stdDev": 1702,
+          "min": 185446,
+          "max": 202558,
+          "count": 100
+        },
+        "latency": {
+          "mean": 36,
+          "median": 36,
+          "stdDev": 6,
+          "min": 24,
+          "max": 66,
+          "count": 100
+        },
+        "successRate": "100.0"
+      },
+      "rawData": [
+        {
+          "iteration": 1,
+          "patientId": "30e48e16-2df7-207e-7...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 202558,
+          "latency": 54,
+          "blockNumber": 20,
+          "success": true
+        },
+        {
+          "iteration": 2,
+          "patientId": "04181caa-fcc1-c6c8-7...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 185446,
+          "latency": 34,
+          "blockNumber": 21,
+          "success": true
+        },
+        {
+          "iteration": 3,
+          "patientId": "57b21dea-ff00-6c3e-9...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 185458,
+          "latency": 43,
+          "blockNumber": 22,
+          "success": true
+        },
+        {
+          "iteration": 4,
+          "patientId": "2da86d63-34ae-b887-d...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 185446,
+          "latency": 32,
+          "blockNumber": 23,
+          "success": true
+        },
+        {
+          "iteration": 5,
+          "patientId": "9f9dbdcb-23a1-82cc-b...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 185458,
+          "latency": 33,
+          "blockNumber": 24,
+          "success": true
+        },
+        {
+          "iteration": 6,
+          "patientId": "e83fe1b3-f94f-5591-f...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 185458,
+          "latency": 34,
+          "blockNumber": 25,
+          "success": true
+        },
+        {
+          "iteration": 7,
+          "patientId": "be874504-c868-ebfd-9...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 185458,
+          "latency": 40,
+          "blockNumber": 26,
+          "success": true
+        },
+        {
+          "iteration": 8,
+          "patientId": "406e8bad-81b5-7624-5...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 185458,
+          "latency": 41,
+          "blockNumber": 27,
+          "success": true
+        },
+        {
+          "iteration": 9,
+          "patientId": "a331b5bc-cbea-a205-a...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 185458,
+          "latency": 40,
+          "blockNumber": 28,
+          "success": true
+        },
+        {
+          "iteration": 10,
+          "patientId": "30e48e16-2df7-207e-7...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 185458,
+          "latency": 37,
+          "blockNumber": 29,
+          "success": true
+        },
+        {
+          "iteration": 11,
+          "patientId": "04181caa-fcc1-c6c8-7...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 185446,
+          "latency": 38,
+          "blockNumber": 30,
+          "success": true
+        },
+        {
+          "iteration": 12,
+          "patientId": "57b21dea-ff00-6c3e-9...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 185458,
+          "latency": 38,
+          "blockNumber": 31,
+          "success": true
+        },
+        {
+          "iteration": 13,
+          "patientId": "2da86d63-34ae-b887-d...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 185446,
+          "latency": 35,
+          "blockNumber": 32,
+          "success": true
+        },
+        {
+          "iteration": 14,
+          "patientId": "9f9dbdcb-23a1-82cc-b...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 185458,
+          "latency": 40,
+          "blockNumber": 33,
+          "success": true
+        },
+        {
+          "iteration": 15,
+          "patientId": "e83fe1b3-f94f-5591-f...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 185458,
+          "latency": 41,
+          "blockNumber": 34,
+          "success": true
+        },
+        {
+          "iteration": 16,
+          "patientId": "be874504-c868-ebfd-9...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 185458,
+          "latency": 37,
+          "blockNumber": 35,
+          "success": true
+        },
+        {
+          "iteration": 17,
+          "patientId": "406e8bad-81b5-7624-5...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 185458,
+          "latency": 42,
+          "blockNumber": 36,
+          "success": true
+        },
+        {
+          "iteration": 18,
+          "patientId": "a331b5bc-cbea-a205-a...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 185458,
+          "latency": 39,
+          "blockNumber": 37,
+          "success": true
+        },
+        {
+          "iteration": 19,
+          "patientId": "30e48e16-2df7-207e-7...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 185458,
+          "latency": 39,
+          "blockNumber": 38,
+          "success": true
+        },
+        {
+          "iteration": 20,
+          "patientId": "04181caa-fcc1-c6c8-7...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 185446,
+          "latency": 38,
+          "blockNumber": 39,
+          "success": true
+        },
+        {
+          "iteration": 21,
+          "patientId": "57b21dea-ff00-6c3e-9...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 185458,
+          "latency": 28,
+          "blockNumber": 40,
+          "success": true
+        },
+        {
+          "iteration": 22,
+          "patientId": "2da86d63-34ae-b887-d...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 185446,
+          "latency": 28,
+          "blockNumber": 41,
+          "success": true
+        },
+        {
+          "iteration": 23,
+          "patientId": "9f9dbdcb-23a1-82cc-b...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 185458,
+          "latency": 27,
+          "blockNumber": 42,
+          "success": true
+        },
+        {
+          "iteration": 24,
+          "patientId": "e83fe1b3-f94f-5591-f...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 185458,
+          "latency": 33,
+          "blockNumber": 43,
+          "success": true
+        },
+        {
+          "iteration": 25,
+          "patientId": "be874504-c868-ebfd-9...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 185458,
+          "latency": 34,
+          "blockNumber": 44,
+          "success": true
+        },
+        {
+          "iteration": 26,
+          "patientId": "406e8bad-81b5-7624-5...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 185458,
+          "latency": 38,
+          "blockNumber": 45,
+          "success": true
+        },
+        {
+          "iteration": 27,
+          "patientId": "a331b5bc-cbea-a205-a...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 185458,
+          "latency": 39,
+          "blockNumber": 46,
+          "success": true
+        },
+        {
+          "iteration": 28,
+          "patientId": "30e48e16-2df7-207e-7...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 185458,
+          "latency": 38,
+          "blockNumber": 47,
+          "success": true
+        },
+        {
+          "iteration": 29,
+          "patientId": "04181caa-fcc1-c6c8-7...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 185446,
+          "latency": 36,
+          "blockNumber": 48,
+          "success": true
+        },
+        {
+          "iteration": 30,
+          "patientId": "57b21dea-ff00-6c3e-9...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 185458,
+          "latency": 42,
+          "blockNumber": 49,
+          "success": true
+        },
+        {
+          "iteration": 31,
+          "patientId": "2da86d63-34ae-b887-d...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 185446,
+          "latency": 40,
+          "blockNumber": 50,
+          "success": true
+        },
+        {
+          "iteration": 32,
+          "patientId": "9f9dbdcb-23a1-82cc-b...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 185458,
+          "latency": 36,
+          "blockNumber": 51,
+          "success": true
+        },
+        {
+          "iteration": 33,
+          "patientId": "e83fe1b3-f94f-5591-f...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 185458,
+          "latency": 35,
+          "blockNumber": 52,
+          "success": true
+        },
+        {
+          "iteration": 34,
+          "patientId": "be874504-c868-ebfd-9...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 185458,
+          "latency": 24,
+          "blockNumber": 53,
+          "success": true
+        },
+        {
+          "iteration": 35,
+          "patientId": "406e8bad-81b5-7624-5...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 185458,
+          "latency": 29,
+          "blockNumber": 54,
+          "success": true
+        },
+        {
+          "iteration": 36,
+          "patientId": "a331b5bc-cbea-a205-a...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 185458,
+          "latency": 35,
+          "blockNumber": 55,
+          "success": true
+        },
+        {
+          "iteration": 37,
+          "patientId": "30e48e16-2df7-207e-7...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 185458,
+          "latency": 31,
+          "blockNumber": 56,
+          "success": true
+        },
+        {
+          "iteration": 38,
+          "patientId": "04181caa-fcc1-c6c8-7...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 185446,
+          "latency": 33,
+          "blockNumber": 57,
+          "success": true
+        },
+        {
+          "iteration": 39,
+          "patientId": "57b21dea-ff00-6c3e-9...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 185458,
+          "latency": 38,
+          "blockNumber": 58,
+          "success": true
+        },
+        {
+          "iteration": 40,
+          "patientId": "2da86d63-34ae-b887-d...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 185446,
+          "latency": 34,
+          "blockNumber": 59,
+          "success": true
+        },
+        {
+          "iteration": 41,
+          "patientId": "9f9dbdcb-23a1-82cc-b...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 185458,
+          "latency": 39,
+          "blockNumber": 60,
+          "success": true
+        },
+        {
+          "iteration": 42,
+          "patientId": "e83fe1b3-f94f-5591-f...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 185458,
+          "latency": 35,
+          "blockNumber": 61,
+          "success": true
+        },
+        {
+          "iteration": 43,
+          "patientId": "be874504-c868-ebfd-9...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 185458,
+          "latency": 43,
+          "blockNumber": 62,
+          "success": true
+        },
+        {
+          "iteration": 44,
+          "patientId": "406e8bad-81b5-7624-5...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 185458,
+          "latency": 33,
+          "blockNumber": 63,
+          "success": true
+        },
+        {
+          "iteration": 45,
+          "patientId": "a331b5bc-cbea-a205-a...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 185458,
+          "latency": 33,
+          "blockNumber": 64,
+          "success": true
+        },
+        {
+          "iteration": 46,
+          "patientId": "30e48e16-2df7-207e-7...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 185458,
+          "latency": 40,
+          "blockNumber": 65,
+          "success": true
+        },
+        {
+          "iteration": 47,
+          "patientId": "04181caa-fcc1-c6c8-7...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 185446,
+          "latency": 40,
+          "blockNumber": 66,
+          "success": true
+        },
+        {
+          "iteration": 48,
+          "patientId": "57b21dea-ff00-6c3e-9...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 185458,
+          "latency": 36,
+          "blockNumber": 67,
+          "success": true
+        },
+        {
+          "iteration": 49,
+          "patientId": "2da86d63-34ae-b887-d...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 185446,
+          "latency": 43,
+          "blockNumber": 68,
+          "success": true
+        },
+        {
+          "iteration": 50,
+          "patientId": "9f9dbdcb-23a1-82cc-b...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 185458,
+          "latency": 34,
+          "blockNumber": 69,
+          "success": true
+        },
+        {
+          "iteration": 51,
+          "patientId": "e83fe1b3-f94f-5591-f...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 185458,
+          "latency": 43,
+          "blockNumber": 70,
+          "success": true
+        },
+        {
+          "iteration": 52,
+          "patientId": "be874504-c868-ebfd-9...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 185458,
+          "latency": 38,
+          "blockNumber": 71,
+          "success": true
+        },
+        {
+          "iteration": 53,
+          "patientId": "406e8bad-81b5-7624-5...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 185458,
+          "latency": 33,
+          "blockNumber": 72,
+          "success": true
+        },
+        {
+          "iteration": 54,
+          "patientId": "a331b5bc-cbea-a205-a...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 185458,
+          "latency": 29,
+          "blockNumber": 73,
+          "success": true
+        },
+        {
+          "iteration": 55,
+          "patientId": "30e48e16-2df7-207e-7...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 185458,
+          "latency": 30,
+          "blockNumber": 74,
+          "success": true
+        },
+        {
+          "iteration": 56,
+          "patientId": "04181caa-fcc1-c6c8-7...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 185446,
+          "latency": 27,
+          "blockNumber": 75,
+          "success": true
+        },
+        {
+          "iteration": 57,
+          "patientId": "57b21dea-ff00-6c3e-9...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 185458,
+          "latency": 28,
+          "blockNumber": 76,
+          "success": true
+        },
+        {
+          "iteration": 58,
+          "patientId": "2da86d63-34ae-b887-d...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 185446,
+          "latency": 28,
+          "blockNumber": 77,
+          "success": true
+        },
+        {
+          "iteration": 59,
+          "patientId": "9f9dbdcb-23a1-82cc-b...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 185458,
+          "latency": 31,
+          "blockNumber": 78,
+          "success": true
+        },
+        {
+          "iteration": 60,
+          "patientId": "e83fe1b3-f94f-5591-f...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 185458,
+          "latency": 42,
+          "blockNumber": 79,
+          "success": true
+        },
+        {
+          "iteration": 61,
+          "patientId": "be874504-c868-ebfd-9...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 185458,
+          "latency": 36,
+          "blockNumber": 80,
+          "success": true
+        },
+        {
+          "iteration": 62,
+          "patientId": "406e8bad-81b5-7624-5...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 185458,
+          "latency": 66,
+          "blockNumber": 81,
+          "success": true
+        },
+        {
+          "iteration": 63,
+          "patientId": "a331b5bc-cbea-a205-a...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 185458,
+          "latency": 57,
+          "blockNumber": 82,
+          "success": true
+        },
+        {
+          "iteration": 64,
+          "patientId": "30e48e16-2df7-207e-7...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 185458,
+          "latency": 27,
+          "blockNumber": 83,
+          "success": true
+        },
+        {
+          "iteration": 65,
+          "patientId": "04181caa-fcc1-c6c8-7...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 185446,
+          "latency": 33,
+          "blockNumber": 84,
+          "success": true
+        },
+        {
+          "iteration": 66,
+          "patientId": "57b21dea-ff00-6c3e-9...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 185458,
+          "latency": 36,
+          "blockNumber": 85,
+          "success": true
+        },
+        {
+          "iteration": 67,
+          "patientId": "2da86d63-34ae-b887-d...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 185446,
+          "latency": 37,
+          "blockNumber": 86,
+          "success": true
+        },
+        {
+          "iteration": 68,
+          "patientId": "9f9dbdcb-23a1-82cc-b...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 185458,
+          "latency": 38,
+          "blockNumber": 87,
+          "success": true
+        },
+        {
+          "iteration": 69,
+          "patientId": "e83fe1b3-f94f-5591-f...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 185458,
+          "latency": 44,
+          "blockNumber": 88,
+          "success": true
+        },
+        {
+          "iteration": 70,
+          "patientId": "be874504-c868-ebfd-9...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 185458,
+          "latency": 37,
+          "blockNumber": 89,
+          "success": true
+        },
+        {
+          "iteration": 71,
+          "patientId": "406e8bad-81b5-7624-5...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 185458,
+          "latency": 41,
+          "blockNumber": 90,
+          "success": true
+        },
+        {
+          "iteration": 72,
+          "patientId": "a331b5bc-cbea-a205-a...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 185458,
+          "latency": 41,
+          "blockNumber": 91,
+          "success": true
+        },
+        {
+          "iteration": 73,
+          "patientId": "30e48e16-2df7-207e-7...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 185458,
+          "latency": 38,
+          "blockNumber": 92,
+          "success": true
+        },
+        {
+          "iteration": 74,
+          "patientId": "04181caa-fcc1-c6c8-7...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 185446,
+          "latency": 43,
+          "blockNumber": 93,
+          "success": true
+        },
+        {
+          "iteration": 75,
+          "patientId": "57b21dea-ff00-6c3e-9...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 185458,
+          "latency": 37,
+          "blockNumber": 94,
+          "success": true
+        },
+        {
+          "iteration": 76,
+          "patientId": "2da86d63-34ae-b887-d...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 185446,
+          "latency": 38,
+          "blockNumber": 95,
+          "success": true
+        },
+        {
+          "iteration": 77,
+          "patientId": "9f9dbdcb-23a1-82cc-b...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 185458,
+          "latency": 37,
+          "blockNumber": 96,
+          "success": true
+        },
+        {
+          "iteration": 78,
+          "patientId": "e83fe1b3-f94f-5591-f...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 185458,
+          "latency": 36,
+          "blockNumber": 97,
+          "success": true
+        },
+        {
+          "iteration": 79,
+          "patientId": "be874504-c868-ebfd-9...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 185458,
+          "latency": 32,
+          "blockNumber": 98,
+          "success": true
+        },
+        {
+          "iteration": 80,
+          "patientId": "406e8bad-81b5-7624-5...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 185458,
+          "latency": 36,
+          "blockNumber": 99,
+          "success": true
+        },
+        {
+          "iteration": 81,
+          "patientId": "a331b5bc-cbea-a205-a...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 185458,
+          "latency": 36,
+          "blockNumber": 100,
+          "success": true
+        },
+        {
+          "iteration": 82,
+          "patientId": "30e48e16-2df7-207e-7...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 185458,
+          "latency": 36,
+          "blockNumber": 101,
+          "success": true
+        },
+        {
+          "iteration": 83,
+          "patientId": "04181caa-fcc1-c6c8-7...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 185446,
+          "latency": 29,
+          "blockNumber": 102,
+          "success": true
+        },
+        {
+          "iteration": 84,
+          "patientId": "57b21dea-ff00-6c3e-9...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 185458,
+          "latency": 24,
+          "blockNumber": 103,
+          "success": true
+        },
+        {
+          "iteration": 85,
+          "patientId": "2da86d63-34ae-b887-d...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 185446,
+          "latency": 31,
+          "blockNumber": 104,
+          "success": true
+        },
+        {
+          "iteration": 86,
+          "patientId": "9f9dbdcb-23a1-82cc-b...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 185458,
+          "latency": 29,
+          "blockNumber": 105,
+          "success": true
+        },
+        {
+          "iteration": 87,
+          "patientId": "e83fe1b3-f94f-5591-f...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 185458,
+          "latency": 30,
+          "blockNumber": 106,
+          "success": true
+        },
+        {
+          "iteration": 88,
+          "patientId": "be874504-c868-ebfd-9...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 185458,
+          "latency": 26,
+          "blockNumber": 107,
+          "success": true
+        },
+        {
+          "iteration": 89,
+          "patientId": "406e8bad-81b5-7624-5...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 185458,
+          "latency": 32,
+          "blockNumber": 108,
+          "success": true
+        },
+        {
+          "iteration": 90,
+          "patientId": "a331b5bc-cbea-a205-a...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 185458,
+          "latency": 31,
+          "blockNumber": 109,
+          "success": true
+        },
+        {
+          "iteration": 91,
+          "patientId": "30e48e16-2df7-207e-7...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 185458,
+          "latency": 36,
+          "blockNumber": 110,
+          "success": true
+        },
+        {
+          "iteration": 92,
+          "patientId": "04181caa-fcc1-c6c8-7...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 185446,
+          "latency": 36,
+          "blockNumber": 111,
+          "success": true
+        },
+        {
+          "iteration": 93,
+          "patientId": "57b21dea-ff00-6c3e-9...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 185458,
+          "latency": 35,
+          "blockNumber": 112,
+          "success": true
+        },
+        {
+          "iteration": 94,
+          "patientId": "2da86d63-34ae-b887-d...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 185446,
+          "latency": 39,
+          "blockNumber": 113,
+          "success": true
+        },
+        {
+          "iteration": 95,
+          "patientId": "9f9dbdcb-23a1-82cc-b...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 185458,
+          "latency": 36,
+          "blockNumber": 114,
+          "success": true
+        },
+        {
+          "iteration": 96,
+          "patientId": "e83fe1b3-f94f-5591-f...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 185458,
+          "latency": 35,
+          "blockNumber": 115,
+          "success": true
+        },
+        {
+          "iteration": 97,
+          "patientId": "be874504-c868-ebfd-9...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 185458,
+          "latency": 38,
+          "blockNumber": 116,
+          "success": true
+        },
+        {
+          "iteration": 98,
+          "patientId": "406e8bad-81b5-7624-5...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 185458,
+          "latency": 37,
+          "blockNumber": 117,
+          "success": true
+        },
+        {
+          "iteration": 99,
+          "patientId": "a331b5bc-cbea-a205-a...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 185458,
+          "latency": 40,
+          "blockNumber": 118,
+          "success": true
+        },
+        {
+          "iteration": 100,
+          "patientId": "30e48e16-2df7-207e-7...",
+          "sensitivity": "ROUTINE",
+          "gasUsed": 185458,
+          "latency": 44,
+          "blockNumber": 119,
+          "success": true
+        }
+      ]
+    },
+    "sensitive": {
+      "iterations": 100,
+      "gasStats": {
+        "gas": {
+          "mean": 185457,
+          "median": 185458,
+          "stdDev": 3,
+          "min": 185446,
+          "max": 185458,
+          "count": 100
+        },
+        "latency": {
+          "mean": 34,
+          "median": 34,
+          "stdDev": 6,
+          "min": 19,
+          "max": 68,
+          "count": 100
+        },
+        "successRate": "100.0"
+      },
+      "rawData": [
+        {
+          "iteration": 1,
+          "patientId": "8c8e1c9a-b310-43c6-3...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185458,
+          "latency": 36,
+          "blockNumber": 120,
+          "success": true
+        },
+        {
+          "iteration": 2,
+          "patientId": "edc17058-55fb-08c7-1...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185458,
+          "latency": 35,
+          "blockNumber": 121,
+          "success": true
+        },
+        {
+          "iteration": 3,
+          "patientId": "80e7f50a-3e99-d5ac-c...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185458,
+          "latency": 39,
+          "blockNumber": 122,
+          "success": true
+        },
+        {
+          "iteration": 4,
+          "patientId": "782001bc-f712-50ae-0...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185458,
+          "latency": 41,
+          "blockNumber": 123,
+          "success": true
+        },
+        {
+          "iteration": 5,
+          "patientId": "a3d34c1f-5421-e078-3...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185458,
+          "latency": 31,
+          "blockNumber": 124,
+          "success": true
+        },
+        {
+          "iteration": 6,
+          "patientId": "e6705c33-7349-8b12-4...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185446,
+          "latency": 31,
+          "blockNumber": 125,
+          "success": true
+        },
+        {
+          "iteration": 7,
+          "patientId": "5a0fd7a2-6bfd-af1e-7...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185458,
+          "latency": 30,
+          "blockNumber": 126,
+          "success": true
+        },
+        {
+          "iteration": 8,
+          "patientId": "20802592-1c31-7339-4...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185458,
+          "latency": 36,
+          "blockNumber": 127,
+          "success": true
+        },
+        {
+          "iteration": 9,
+          "patientId": "641efcda-7397-4172-c...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185458,
+          "latency": 29,
+          "blockNumber": 128,
+          "success": true
+        },
+        {
+          "iteration": 10,
+          "patientId": "e64918a6-528c-b49e-d...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185458,
+          "latency": 26,
+          "blockNumber": 129,
+          "success": true
+        },
+        {
+          "iteration": 11,
+          "patientId": "7757f538-bffe-a8bf-0...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185458,
+          "latency": 35,
+          "blockNumber": 130,
+          "success": true
+        },
+        {
+          "iteration": 12,
+          "patientId": "8c8e1c9a-b310-43c6-3...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185458,
+          "latency": 33,
+          "blockNumber": 131,
+          "success": true
+        },
+        {
+          "iteration": 13,
+          "patientId": "edc17058-55fb-08c7-1...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185458,
+          "latency": 38,
+          "blockNumber": 132,
+          "success": true
+        },
+        {
+          "iteration": 14,
+          "patientId": "80e7f50a-3e99-d5ac-c...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185458,
+          "latency": 37,
+          "blockNumber": 133,
+          "success": true
+        },
+        {
+          "iteration": 15,
+          "patientId": "782001bc-f712-50ae-0...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185458,
+          "latency": 53,
+          "blockNumber": 134,
+          "success": true
+        },
+        {
+          "iteration": 16,
+          "patientId": "a3d34c1f-5421-e078-3...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185458,
+          "latency": 33,
+          "blockNumber": 135,
+          "success": true
+        },
+        {
+          "iteration": 17,
+          "patientId": "e6705c33-7349-8b12-4...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185446,
+          "latency": 32,
+          "blockNumber": 136,
+          "success": true
+        },
+        {
+          "iteration": 18,
+          "patientId": "5a0fd7a2-6bfd-af1e-7...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185458,
+          "latency": 31,
+          "blockNumber": 137,
+          "success": true
+        },
+        {
+          "iteration": 19,
+          "patientId": "20802592-1c31-7339-4...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185458,
+          "latency": 28,
+          "blockNumber": 138,
+          "success": true
+        },
+        {
+          "iteration": 20,
+          "patientId": "641efcda-7397-4172-c...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185458,
+          "latency": 27,
+          "blockNumber": 139,
+          "success": true
+        },
+        {
+          "iteration": 21,
+          "patientId": "e64918a6-528c-b49e-d...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185458,
+          "latency": 30,
+          "blockNumber": 140,
+          "success": true
+        },
+        {
+          "iteration": 22,
+          "patientId": "7757f538-bffe-a8bf-0...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185458,
+          "latency": 35,
+          "blockNumber": 141,
+          "success": true
+        },
+        {
+          "iteration": 23,
+          "patientId": "8c8e1c9a-b310-43c6-3...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185458,
+          "latency": 32,
+          "blockNumber": 142,
+          "success": true
+        },
+        {
+          "iteration": 24,
+          "patientId": "edc17058-55fb-08c7-1...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185458,
+          "latency": 35,
+          "blockNumber": 143,
+          "success": true
+        },
+        {
+          "iteration": 25,
+          "patientId": "80e7f50a-3e99-d5ac-c...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185458,
+          "latency": 33,
+          "blockNumber": 144,
+          "success": true
+        },
+        {
+          "iteration": 26,
+          "patientId": "782001bc-f712-50ae-0...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185458,
+          "latency": 34,
+          "blockNumber": 145,
+          "success": true
+        },
+        {
+          "iteration": 27,
+          "patientId": "a3d34c1f-5421-e078-3...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185458,
+          "latency": 30,
+          "blockNumber": 146,
+          "success": true
+        },
+        {
+          "iteration": 28,
+          "patientId": "e6705c33-7349-8b12-4...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185446,
+          "latency": 29,
+          "blockNumber": 147,
+          "success": true
+        },
+        {
+          "iteration": 29,
+          "patientId": "5a0fd7a2-6bfd-af1e-7...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185458,
+          "latency": 31,
+          "blockNumber": 148,
+          "success": true
+        },
+        {
+          "iteration": 30,
+          "patientId": "20802592-1c31-7339-4...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185458,
+          "latency": 51,
+          "blockNumber": 149,
+          "success": true
+        },
+        {
+          "iteration": 31,
+          "patientId": "641efcda-7397-4172-c...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185458,
+          "latency": 68,
+          "blockNumber": 150,
+          "success": true
+        },
+        {
+          "iteration": 32,
+          "patientId": "e64918a6-528c-b49e-d...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185458,
+          "latency": 42,
+          "blockNumber": 151,
+          "success": true
+        },
+        {
+          "iteration": 33,
+          "patientId": "7757f538-bffe-a8bf-0...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185458,
+          "latency": 30,
+          "blockNumber": 152,
+          "success": true
+        },
+        {
+          "iteration": 34,
+          "patientId": "8c8e1c9a-b310-43c6-3...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185458,
+          "latency": 27,
+          "blockNumber": 153,
+          "success": true
+        },
+        {
+          "iteration": 35,
+          "patientId": "edc17058-55fb-08c7-1...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185458,
+          "latency": 27,
+          "blockNumber": 154,
+          "success": true
+        },
+        {
+          "iteration": 36,
+          "patientId": "80e7f50a-3e99-d5ac-c...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185458,
+          "latency": 29,
+          "blockNumber": 155,
+          "success": true
+        },
+        {
+          "iteration": 37,
+          "patientId": "782001bc-f712-50ae-0...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185458,
+          "latency": 27,
+          "blockNumber": 156,
+          "success": true
+        },
+        {
+          "iteration": 38,
+          "patientId": "a3d34c1f-5421-e078-3...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185458,
+          "latency": 27,
+          "blockNumber": 157,
+          "success": true
+        },
+        {
+          "iteration": 39,
+          "patientId": "e6705c33-7349-8b12-4...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185446,
+          "latency": 37,
+          "blockNumber": 158,
+          "success": true
+        },
+        {
+          "iteration": 40,
+          "patientId": "5a0fd7a2-6bfd-af1e-7...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185458,
+          "latency": 33,
+          "blockNumber": 159,
+          "success": true
+        },
+        {
+          "iteration": 41,
+          "patientId": "20802592-1c31-7339-4...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185458,
+          "latency": 35,
+          "blockNumber": 160,
+          "success": true
+        },
+        {
+          "iteration": 42,
+          "patientId": "641efcda-7397-4172-c...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185458,
+          "latency": 40,
+          "blockNumber": 161,
+          "success": true
+        },
+        {
+          "iteration": 43,
+          "patientId": "e64918a6-528c-b49e-d...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185458,
+          "latency": 32,
+          "blockNumber": 162,
+          "success": true
+        },
+        {
+          "iteration": 44,
+          "patientId": "7757f538-bffe-a8bf-0...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185458,
+          "latency": 33,
+          "blockNumber": 163,
+          "success": true
+        },
+        {
+          "iteration": 45,
+          "patientId": "8c8e1c9a-b310-43c6-3...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185458,
+          "latency": 44,
+          "blockNumber": 164,
+          "success": true
+        },
+        {
+          "iteration": 46,
+          "patientId": "edc17058-55fb-08c7-1...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185458,
+          "latency": 31,
+          "blockNumber": 165,
+          "success": true
+        },
+        {
+          "iteration": 47,
+          "patientId": "80e7f50a-3e99-d5ac-c...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185458,
+          "latency": 34,
+          "blockNumber": 166,
+          "success": true
+        },
+        {
+          "iteration": 48,
+          "patientId": "782001bc-f712-50ae-0...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185458,
+          "latency": 30,
+          "blockNumber": 167,
+          "success": true
+        },
+        {
+          "iteration": 49,
+          "patientId": "a3d34c1f-5421-e078-3...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185458,
+          "latency": 39,
+          "blockNumber": 168,
+          "success": true
+        },
+        {
+          "iteration": 50,
+          "patientId": "e6705c33-7349-8b12-4...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185446,
+          "latency": 36,
+          "blockNumber": 169,
+          "success": true
+        },
+        {
+          "iteration": 51,
+          "patientId": "5a0fd7a2-6bfd-af1e-7...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185458,
+          "latency": 28,
+          "blockNumber": 170,
+          "success": true
+        },
+        {
+          "iteration": 52,
+          "patientId": "20802592-1c31-7339-4...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185458,
+          "latency": 28,
+          "blockNumber": 171,
+          "success": true
+        },
+        {
+          "iteration": 53,
+          "patientId": "641efcda-7397-4172-c...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185458,
+          "latency": 29,
+          "blockNumber": 172,
+          "success": true
+        },
+        {
+          "iteration": 54,
+          "patientId": "e64918a6-528c-b49e-d...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185458,
+          "latency": 25,
+          "blockNumber": 173,
+          "success": true
+        },
+        {
+          "iteration": 55,
+          "patientId": "7757f538-bffe-a8bf-0...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185458,
+          "latency": 30,
+          "blockNumber": 174,
+          "success": true
+        },
+        {
+          "iteration": 56,
+          "patientId": "8c8e1c9a-b310-43c6-3...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185458,
+          "latency": 39,
+          "blockNumber": 175,
+          "success": true
+        },
+        {
+          "iteration": 57,
+          "patientId": "edc17058-55fb-08c7-1...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185458,
+          "latency": 34,
+          "blockNumber": 176,
+          "success": true
+        },
+        {
+          "iteration": 58,
+          "patientId": "80e7f50a-3e99-d5ac-c...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185458,
+          "latency": 37,
+          "blockNumber": 177,
+          "success": true
+        },
+        {
+          "iteration": 59,
+          "patientId": "782001bc-f712-50ae-0...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185458,
+          "latency": 36,
+          "blockNumber": 178,
+          "success": true
+        },
+        {
+          "iteration": 60,
+          "patientId": "a3d34c1f-5421-e078-3...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185458,
+          "latency": 37,
+          "blockNumber": 179,
+          "success": true
+        },
+        {
+          "iteration": 61,
+          "patientId": "e6705c33-7349-8b12-4...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185446,
+          "latency": 38,
+          "blockNumber": 180,
+          "success": true
+        },
+        {
+          "iteration": 62,
+          "patientId": "5a0fd7a2-6bfd-af1e-7...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185458,
+          "latency": 39,
+          "blockNumber": 181,
+          "success": true
+        },
+        {
+          "iteration": 63,
+          "patientId": "20802592-1c31-7339-4...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185458,
+          "latency": 36,
+          "blockNumber": 182,
+          "success": true
+        },
+        {
+          "iteration": 64,
+          "patientId": "641efcda-7397-4172-c...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185458,
+          "latency": 36,
+          "blockNumber": 183,
+          "success": true
+        },
+        {
+          "iteration": 65,
+          "patientId": "e64918a6-528c-b49e-d...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185458,
+          "latency": 42,
+          "blockNumber": 184,
+          "success": true
+        },
+        {
+          "iteration": 66,
+          "patientId": "7757f538-bffe-a8bf-0...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185458,
+          "latency": 36,
+          "blockNumber": 185,
+          "success": true
+        },
+        {
+          "iteration": 67,
+          "patientId": "8c8e1c9a-b310-43c6-3...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185458,
+          "latency": 34,
+          "blockNumber": 186,
+          "success": true
+        },
+        {
+          "iteration": 68,
+          "patientId": "edc17058-55fb-08c7-1...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185458,
+          "latency": 35,
+          "blockNumber": 187,
+          "success": true
+        },
+        {
+          "iteration": 69,
+          "patientId": "80e7f50a-3e99-d5ac-c...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185458,
+          "latency": 31,
+          "blockNumber": 188,
+          "success": true
+        },
+        {
+          "iteration": 70,
+          "patientId": "782001bc-f712-50ae-0...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185458,
+          "latency": 40,
+          "blockNumber": 189,
+          "success": true
+        },
+        {
+          "iteration": 71,
+          "patientId": "a3d34c1f-5421-e078-3...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185458,
+          "latency": 42,
+          "blockNumber": 190,
+          "success": true
+        },
+        {
+          "iteration": 72,
+          "patientId": "e6705c33-7349-8b12-4...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185446,
+          "latency": 37,
+          "blockNumber": 191,
+          "success": true
+        },
+        {
+          "iteration": 73,
+          "patientId": "5a0fd7a2-6bfd-af1e-7...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185458,
+          "latency": 37,
+          "blockNumber": 192,
+          "success": true
+        },
+        {
+          "iteration": 74,
+          "patientId": "20802592-1c31-7339-4...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185458,
+          "latency": 36,
+          "blockNumber": 193,
+          "success": true
+        },
+        {
+          "iteration": 75,
+          "patientId": "641efcda-7397-4172-c...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185458,
+          "latency": 33,
+          "blockNumber": 194,
+          "success": true
+        },
+        {
+          "iteration": 76,
+          "patientId": "e64918a6-528c-b49e-d...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185458,
+          "latency": 36,
+          "blockNumber": 195,
+          "success": true
+        },
+        {
+          "iteration": 77,
+          "patientId": "7757f538-bffe-a8bf-0...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185458,
+          "latency": 31,
+          "blockNumber": 196,
+          "success": true
+        },
+        {
+          "iteration": 78,
+          "patientId": "8c8e1c9a-b310-43c6-3...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185458,
+          "latency": 36,
+          "blockNumber": 197,
+          "success": true
+        },
+        {
+          "iteration": 79,
+          "patientId": "edc17058-55fb-08c7-1...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185458,
+          "latency": 35,
+          "blockNumber": 198,
+          "success": true
+        },
+        {
+          "iteration": 80,
+          "patientId": "80e7f50a-3e99-d5ac-c...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185458,
+          "latency": 39,
+          "blockNumber": 199,
+          "success": true
+        },
+        {
+          "iteration": 81,
+          "patientId": "782001bc-f712-50ae-0...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185458,
+          "latency": 33,
+          "blockNumber": 200,
+          "success": true
+        },
+        {
+          "iteration": 82,
+          "patientId": "a3d34c1f-5421-e078-3...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185458,
+          "latency": 34,
+          "blockNumber": 201,
+          "success": true
+        },
+        {
+          "iteration": 83,
+          "patientId": "e6705c33-7349-8b12-4...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185446,
+          "latency": 28,
+          "blockNumber": 202,
+          "success": true
+        },
+        {
+          "iteration": 84,
+          "patientId": "5a0fd7a2-6bfd-af1e-7...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185458,
+          "latency": 24,
+          "blockNumber": 203,
+          "success": true
+        },
+        {
+          "iteration": 85,
+          "patientId": "20802592-1c31-7339-4...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185458,
+          "latency": 20,
+          "blockNumber": 204,
+          "success": true
+        },
+        {
+          "iteration": 86,
+          "patientId": "641efcda-7397-4172-c...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185458,
+          "latency": 22,
+          "blockNumber": 205,
+          "success": true
+        },
+        {
+          "iteration": 87,
+          "patientId": "e64918a6-528c-b49e-d...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185458,
+          "latency": 19,
+          "blockNumber": 206,
+          "success": true
+        },
+        {
+          "iteration": 88,
+          "patientId": "7757f538-bffe-a8bf-0...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185458,
+          "latency": 28,
+          "blockNumber": 207,
+          "success": true
+        },
+        {
+          "iteration": 89,
+          "patientId": "8c8e1c9a-b310-43c6-3...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185458,
+          "latency": 34,
+          "blockNumber": 208,
+          "success": true
+        },
+        {
+          "iteration": 90,
+          "patientId": "edc17058-55fb-08c7-1...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185458,
+          "latency": 36,
+          "blockNumber": 209,
+          "success": true
+        },
+        {
+          "iteration": 91,
+          "patientId": "80e7f50a-3e99-d5ac-c...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185458,
+          "latency": 34,
+          "blockNumber": 210,
+          "success": true
+        },
+        {
+          "iteration": 92,
+          "patientId": "782001bc-f712-50ae-0...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185458,
+          "latency": 39,
+          "blockNumber": 211,
+          "success": true
+        },
+        {
+          "iteration": 93,
+          "patientId": "a3d34c1f-5421-e078-3...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185458,
+          "latency": 40,
+          "blockNumber": 212,
+          "success": true
+        },
+        {
+          "iteration": 94,
+          "patientId": "e6705c33-7349-8b12-4...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185446,
+          "latency": 38,
+          "blockNumber": 213,
+          "success": true
+        },
+        {
+          "iteration": 95,
+          "patientId": "5a0fd7a2-6bfd-af1e-7...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185458,
+          "latency": 35,
+          "blockNumber": 214,
+          "success": true
+        },
+        {
+          "iteration": 96,
+          "patientId": "20802592-1c31-7339-4...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185458,
+          "latency": 32,
+          "blockNumber": 215,
+          "success": true
+        },
+        {
+          "iteration": 97,
+          "patientId": "641efcda-7397-4172-c...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185458,
+          "latency": 33,
+          "blockNumber": 216,
+          "success": true
+        },
+        {
+          "iteration": 98,
+          "patientId": "e64918a6-528c-b49e-d...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185458,
+          "latency": 42,
+          "blockNumber": 217,
+          "success": true
+        },
+        {
+          "iteration": 99,
+          "patientId": "7757f538-bffe-a8bf-0...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185458,
+          "latency": 32,
+          "blockNumber": 218,
+          "success": true
+        },
+        {
+          "iteration": 100,
+          "patientId": "8c8e1c9a-b310-43c6-3...",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": 185458,
+          "latency": 31,
+          "blockNumber": 219,
+          "success": true
+        }
+      ]
+    },
+    "combined": {
+      "iterations": 200,
+      "gasStats": {
+        "mean": 185542,
+        "median": 185458,
+        "stdDev": 1206,
+        "min": 185446,
+        "max": 202558,
+        "count": 200
+      },
+      "note": "Both routine and sensitive use RBAC only - no ZK protection"
+    }
+  }
+}

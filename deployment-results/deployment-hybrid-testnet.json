@@ -1,0 +1,27 @@
+{
+  "network": "sepolia",
+  "chainId": 11155111,
+  "verifierAddress": "0xF9b39FF191377f3C4aC47F29D882DEC7F39a7DC5",
+  "hybridAddress": "0x5B84e03A9f0f2fD818B9A43C9220e2C1d540504C",
+  "deployer": "0x224C4D51861AD22c61D7355d6A68550050bDa367",
+  "timestamp": "2025-11-22T22:30:12.035Z",
+  "patientsStored": 16,
+  "patientDistribution": {
+    "sensitive": 8,
+    "routine": 8,
+    "total": 16
+  },
+  "model": "Hybrid (ZK for sensitive + RBAC for routine)",
+  "circuitInfo": {
+    "constraints": 7281,
+    "file": "consent-verification-v2.circom",
+    "treeDepth": 4,
+    "maxPatients": 16
+  },
+  "storageGasUsed": "2941596",
+  "etherscanUrls": {
+    "verifier": "https://sepolia.etherscan.io/address/0xF9b39FF191377f3C4aC47F29D882DEC7F39a7DC5",
+    "hybrid": "https://sepolia.etherscan.io/address/0x5B84e03A9f0f2fD818B9A43C9220e2C1d540504C"
+  },
+  "description": "Sensitive → ZK proof, Routine → RBAC - testnet deployment"
+}

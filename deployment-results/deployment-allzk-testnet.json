@@ -1,0 +1,29 @@
+{
+  "network": "sepolia",
+  "chainId": 11155111,
+  "verifierAddress": "0x4e5ec5b98566e1943cc3b6221e9E833d2Af66078",
+  "allZKAddress": "0x75E5bBaF31E489E12D7Be680b4D985108f22a7C8",
+  "deployer": "0x224C4D51861AD22c61D7355d6A68550050bDa367",
+  "timestamp": "2025-11-22T22:31:36.443Z",
+  "patientsStored": 16,
+  "patientDistribution": {
+    "sensitive": 8,
+    "routine": 8,
+    "total": 16,
+    "note": "AllZK requires ZK proofs for ALL records"
+  },
+  "model": "All-ZK (Universal ZKP)",
+  "circuitInfo": {
+    "constraints": 7281,
+    "file": "consent-verification-v2.circom",
+    "provingKey": "circuit_final.zkey",
+    "treeDepth": 4,
+    "maxPatients": 16
+  },
+  "storageGasUsed": "2940384",
+  "etherscanUrls": {
+    "verifier": "https://sepolia.etherscan.io/address/0x4e5ec5b98566e1943cc3b6221e9E833d2Af66078",
+    "allZK": "https://sepolia.etherscan.io/address/0x75E5bBaF31E489E12D7Be680b4D985108f22a7C8"
+  },
+  "description": "ALL access requires ZK proof verification (routine + sensitive) - testnet deployment"
+}

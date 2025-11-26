@@ -1,0 +1,253 @@
+{
+  "metadata": {
+    "analysisDate": "2025-11-22T19:25:53.495Z",
+    "ethPrice": 3000,
+    "gasPriceGwei": 50,
+    "sampleSize": {
+      "hybridRoutine": 100,
+      "hybridSensitive": 100,
+      "allZK": 100
+    }
+  },
+  "sections": {
+    "confidenceIntervals": {
+      "hybrid": {
+        "routine": {
+          "mean": 185625,
+          "lower": 185291,
+          "upper": 185958,
+          "marginOfError": 334,
+          "confidenceLevel": "95%",
+          "sampleSize": 100
+        },
+        "sensitive": {
+          "mean": 29151705,
+          "lower": 29151705,
+          "upper": 29151705,
+          "marginOfError": 0,
+          "confidenceLevel": "95%",
+          "sampleSize": 100
+        }
+      },
+      "allZK": {
+        "mean": 29134195,
+        "lower": 29133862,
+        "upper": 29134528,
+        "marginOfError": 333,
+        "confidenceLevel": "95%",
+        "sampleSize": 100
+      }
+    },
+    "hypothesisTesting": {
+      "tStatistic": "-120297.709",
+      "degreesOfFreedom": 198,
+      "pValue": "< 0.01",
+      "significant": true,
+      "interpretation": "Statistically significant"
+    },
+    "effectSize": {
+      "cohensD": "-17012.665",
+      "absoluteValue": "17012.665",
+      "interpretation": "large",
+      "effectStrength": "Strong practical significance"
+    },
+    "percentiles": {
+      "routine": {
+        "p5": 185445,
+        "p25": 185445,
+        "p50": 185457,
+        "p75": 185457,
+        "p95": 185457,
+        "p99": 185457,
+        "range": 17112,
+        "iqr": 12
+      },
+      "sensitive": {
+        "p5": 29151705,
+        "p25": 29151705,
+        "p50": 29151705,
+        "p75": 29151705,
+        "p95": 29151705,
+        "p99": 29151705,
+        "range": 0,
+        "iqr": 0
+      }
+    },
+    "economicAnalysis": {
+      "assumptions": {
+        "ethPrice": 3000,
+        "gasPriceGwei": 50,
+        "dailyTransactions": 10000
+      },
+      "perTransactionCosts": {
+        "hybridRoutine": {
+          "gas": 185625,
+          "ethCost": 0.009281,
+          "usdCost": 27.84
+        },
+        "hybridSensitive": {
+          "gas": 29151705,
+          "ethCost": 1.457585,
+          "usdCost": 4372.76
+        },
+        "allZK": {
+          "gas": 29137884,
+          "ethCost": 1.456894,
+          "usdCost": 4370.68
+        }
+      },
+      "annualCosts": {
+        "nonZK": {
+          "dailyTransactions": "10,000",
+          "yearlyTransactions": "3,650,000",
+          "totalGasPerYear": "677,228,300,000",
+          "costETH": "33861.415000",
+          "costUSD": "$101,584,245"
+        },
+        "hybrid": {
+          "dailyTransactions": "10,000",
+          "yearlyTransactions": "3,650,000",
+          "totalGasPerYear": "32,395,388,850,000",
+          "costETH": "1619769.442500",
+          "costUSD": "$4,859,308,327.5"
+        },
+        "allZK": {
+          "dailyTransactions": "10,000",
+          "yearlyTransactions": "3,650,000",
+          "totalGasPerYear": "106,353,276,600,000",
+          "costETH": "5317663.830000",
+          "costUSD": "$15,952,991,490"
+        }
+      },
+      "savings": {
+        "annualUSD": 11093683162.5,
+        "percentage": "69.5%"
+      }
+    },
+    "throughputAnalysis": {
+      "blockCapacity": {
+        "nonZK": 161,
+        "hybridRoutine": 161,
+        "hybridSensitive": 1,
+        "allZK": 1
+      },
+      "dailyCapacity": {
+        "nonZK": 1159200,
+        "hybridMixed": 813600,
+        "allZK": 7200
+      },
+      "hospitalCapacity": {
+        "nonZK": 23,
+        "hybrid": 16,
+        "allZK": 0
+      }
+    },
+    "workloadSensitivity": [
+      {
+        "scenario": "Low-acuity Clinic",
+        "routinePercent": "95%",
+        "sensitivePercent": "5%",
+        "hybridAvgGas": 1633929,
+        "allZKGas": 29151705,
+        "savingsPercent": "94.4%",
+        "costHybrid": "245.09",
+        "costAllZK": "4372.76"
+      },
+      {
+        "scenario": "Outpatient Center",
+        "routinePercent": "85%",
+        "sensitivePercent": "15%",
+        "hybridAvgGas": 4530537,
+        "allZKGas": 29151705,
+        "savingsPercent": "84.5%",
+        "costHybrid": "679.58",
+        "costAllZK": "4372.76"
+      },
+      {
+        "scenario": "General Hospital",
+        "routinePercent": "70%",
+        "sensitivePercent": "30%",
+        "hybridAvgGas": 8875449,
+        "allZKGas": 29151705,
+        "savingsPercent": "69.6%",
+        "costHybrid": "1331.32",
+        "costAllZK": "4372.76"
+      },
+      {
+        "scenario": "Research Hospital",
+        "routinePercent": "50%",
+        "sensitivePercent": "50%",
+        "hybridAvgGas": 14668665,
+        "allZKGas": 29151705,
+        "savingsPercent": "49.7%",
+        "costHybrid": "2200.30",
+        "costAllZK": "4372.76"
+      },
+      {
+        "scenario": "Psychiatric Facility",
+        "routinePercent": "30%",
+        "sensitivePercent": "70%",
+        "hybridAvgGas": 20461881,
+        "allZKGas": 29151705,
+        "savingsPercent": "29.8%",
+        "costHybrid": "3069.28",
+        "costAllZK": "4372.76"
+      },
+      {
+        "scenario": "Oncology Center",
+        "routinePercent": "20%",
+        "sensitivePercent": "80%",
+        "hybridAvgGas": 23358489,
+        "allZKGas": 29151705,
+        "savingsPercent": "19.9%",
+        "costHybrid": "3503.77",
+        "costAllZK": "4372.76"
+      }
+    ],
+    "literatureComparison": {
+      "Your Hybrid System (2025)": {
+        "approach": "Sensitivity-based smart routing",
+        "routineGas": "185,625",
+        "sensitiveGas": "29,151,705",
+        "provingTime": "~2.6s",
+        "constraints": "7,281",
+        "privacyLevel": "Operation-type distinguishable",
+        "throughput": "16 hospitals/day",
+        "economicSavings": "69.5% vs All-ZK"
+      },
+      "Shanmugham & Senthilkumar (2025)": {
+        "approach": "Universal ZK + Ring Signatures",
+        "provingTime": "2.3ms (optimized)",
+        "verificationTime": "1.8ms",
+        "signatureSize": "32 bytes",
+        "privacyLevel": "Complete (all operations identical)",
+        "throughput": "Not specified",
+        "limitations": "Universal application may limit throughput"
+      },
+      "Pongallu et al. (2025) - SecureMedZK": {
+        "approach": "Quantum-resistant ZK Rollups + NTRU",
+        "improvement": "30% transaction speed vs traditional",
+        "privacyLevel": "Complete + quantum-resistant",
+        "consensus": "PBFT",
+        "throughput": "Not specified",
+        "limitations": "Complexity of quantum-resistant crypto"
+      },
+      "Cao et al. (2022)": {
+        "approach": "Dual blockchain (party-based separation)",
+        "architecture": "Private + public smart contracts",
+        "privacyLevel": "Party-based (hospital-insurer separation)",
+        "useCase": "Insurance compensation only",
+        "throughput": "Not specified",
+        "limitations": "Workflow-specific, multi-blockchain complexity"
+      },
+      "Ranaweera et al. (2023)": {
+        "approach": "Dual cryptography (ZKP + Homomorphic Encryption)",
+        "authentication": "Web-based ZKP",
+        "dataProcessing": "Homomorphic encryption",
+        "privacyLevel": "Complete (stacked cryptography)",
+        "compliance": "HIPAA compliant",
+        "limitations": "High overhead from dual cryptographic operations"
+      }
+    }
+  }
+}

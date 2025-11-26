@@ -1,0 +1,2953 @@
+{
+  "network": "sepolia",
+  "chainId": 11155111,
+  "timestamp": "2025-11-22T23:42:58.414Z",
+  "iterations": 10,
+  "gasPrice": "1099994",
+  "gasPriceGwei": "0.001099994",
+  "hybridVersion": "V4",
+  "models": {
+    "allNonZK": {
+      "totalGas": "29425080",
+      "accessCount": 160,
+      "successCount": 160,
+      "avgGasPerAccess": 183906.75,
+      "attempts": [
+        {
+          "patientId": "8c8e1c9a-b310-43c6-33a7-ad11bad21c40",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "edc17058-55fb-08c7-12df-ece93a402e50",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "80e7f50a-3e99-d5ac-cf97-f8a4b4f9e6c7",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "782001bc-f712-50ae-04f5-9a488f3ef4aa",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "30e48e16-2df7-207e-7a3d-1650ef0c1ed8",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "04181caa-fcc1-c6c8-743e-a903eff368de",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "183897",
+          "status": "success"
+        },
+        {
+          "patientId": "a3d34c1f-5421-e078-38ec-1498a5941dbe",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "57b21dea-ff00-6c3e-92d9-91c7627f53b2",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "2da86d63-34ae-b887-ddff-8f6f1e6990f1",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "183897",
+          "status": "success"
+        },
+        {
+          "patientId": "9f9dbdcb-23a1-82cc-b7bc-e0e420a95bd1",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "e83fe1b3-f94f-5591-f851-1da300e24e99",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "be874504-c868-ebfd-9a77-df6b1e5ff6cc",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "e6705c33-7349-8b12-484d-3b1f93227178",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "183897",
+          "status": "success"
+        },
+        {
+          "patientId": "406e8bad-81b5-7624-5b8a-4aeeb74028f5",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "5a0fd7a2-6bfd-af1e-7bb6-2060136302c3",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "20802592-1c31-7339-4c4c-2fe648e1a716",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "8c8e1c9a-b310-43c6-33a7-ad11bad21c40",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "edc17058-55fb-08c7-12df-ece93a402e50",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "80e7f50a-3e99-d5ac-cf97-f8a4b4f9e6c7",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "782001bc-f712-50ae-04f5-9a488f3ef4aa",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "30e48e16-2df7-207e-7a3d-1650ef0c1ed8",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "04181caa-fcc1-c6c8-743e-a903eff368de",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "183897",
+          "status": "success"
+        },
+        {
+          "patientId": "a3d34c1f-5421-e078-38ec-1498a5941dbe",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "57b21dea-ff00-6c3e-92d9-91c7627f53b2",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "2da86d63-34ae-b887-ddff-8f6f1e6990f1",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "183897",
+          "status": "success"
+        },
+        {
+          "patientId": "9f9dbdcb-23a1-82cc-b7bc-e0e420a95bd1",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "e83fe1b3-f94f-5591-f851-1da300e24e99",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "be874504-c868-ebfd-9a77-df6b1e5ff6cc",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "e6705c33-7349-8b12-484d-3b1f93227178",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "183897",
+          "status": "success"
+        },
+        {
+          "patientId": "406e8bad-81b5-7624-5b8a-4aeeb74028f5",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "5a0fd7a2-6bfd-af1e-7bb6-2060136302c3",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "20802592-1c31-7339-4c4c-2fe648e1a716",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "8c8e1c9a-b310-43c6-33a7-ad11bad21c40",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "edc17058-55fb-08c7-12df-ece93a402e50",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "80e7f50a-3e99-d5ac-cf97-f8a4b4f9e6c7",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "782001bc-f712-50ae-04f5-9a488f3ef4aa",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "30e48e16-2df7-207e-7a3d-1650ef0c1ed8",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "04181caa-fcc1-c6c8-743e-a903eff368de",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "183897",
+          "status": "success"
+        },
+        {
+          "patientId": "a3d34c1f-5421-e078-38ec-1498a5941dbe",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "57b21dea-ff00-6c3e-92d9-91c7627f53b2",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "2da86d63-34ae-b887-ddff-8f6f1e6990f1",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "183897",
+          "status": "success"
+        },
+        {
+          "patientId": "9f9dbdcb-23a1-82cc-b7bc-e0e420a95bd1",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "e83fe1b3-f94f-5591-f851-1da300e24e99",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "be874504-c868-ebfd-9a77-df6b1e5ff6cc",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "e6705c33-7349-8b12-484d-3b1f93227178",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "183897",
+          "status": "success"
+        },
+        {
+          "patientId": "406e8bad-81b5-7624-5b8a-4aeeb74028f5",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "5a0fd7a2-6bfd-af1e-7bb6-2060136302c3",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "20802592-1c31-7339-4c4c-2fe648e1a716",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "8c8e1c9a-b310-43c6-33a7-ad11bad21c40",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "edc17058-55fb-08c7-12df-ece93a402e50",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "80e7f50a-3e99-d5ac-cf97-f8a4b4f9e6c7",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "782001bc-f712-50ae-04f5-9a488f3ef4aa",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "30e48e16-2df7-207e-7a3d-1650ef0c1ed8",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "04181caa-fcc1-c6c8-743e-a903eff368de",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "183897",
+          "status": "success"
+        },
+        {
+          "patientId": "a3d34c1f-5421-e078-38ec-1498a5941dbe",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "57b21dea-ff00-6c3e-92d9-91c7627f53b2",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "2da86d63-34ae-b887-ddff-8f6f1e6990f1",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "183897",
+          "status": "success"
+        },
+        {
+          "patientId": "9f9dbdcb-23a1-82cc-b7bc-e0e420a95bd1",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "e83fe1b3-f94f-5591-f851-1da300e24e99",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "be874504-c868-ebfd-9a77-df6b1e5ff6cc",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "e6705c33-7349-8b12-484d-3b1f93227178",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "183897",
+          "status": "success"
+        },
+        {
+          "patientId": "406e8bad-81b5-7624-5b8a-4aeeb74028f5",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "5a0fd7a2-6bfd-af1e-7bb6-2060136302c3",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "20802592-1c31-7339-4c4c-2fe648e1a716",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "8c8e1c9a-b310-43c6-33a7-ad11bad21c40",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "edc17058-55fb-08c7-12df-ece93a402e50",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "80e7f50a-3e99-d5ac-cf97-f8a4b4f9e6c7",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "782001bc-f712-50ae-04f5-9a488f3ef4aa",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "30e48e16-2df7-207e-7a3d-1650ef0c1ed8",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "04181caa-fcc1-c6c8-743e-a903eff368de",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "183897",
+          "status": "success"
+        },
+        {
+          "patientId": "a3d34c1f-5421-e078-38ec-1498a5941dbe",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "57b21dea-ff00-6c3e-92d9-91c7627f53b2",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "2da86d63-34ae-b887-ddff-8f6f1e6990f1",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "183897",
+          "status": "success"
+        },
+        {
+          "patientId": "9f9dbdcb-23a1-82cc-b7bc-e0e420a95bd1",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "e83fe1b3-f94f-5591-f851-1da300e24e99",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "be874504-c868-ebfd-9a77-df6b1e5ff6cc",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "e6705c33-7349-8b12-484d-3b1f93227178",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "183897",
+          "status": "success"
+        },
+        {
+          "patientId": "406e8bad-81b5-7624-5b8a-4aeeb74028f5",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "5a0fd7a2-6bfd-af1e-7bb6-2060136302c3",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "20802592-1c31-7339-4c4c-2fe648e1a716",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "8c8e1c9a-b310-43c6-33a7-ad11bad21c40",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "edc17058-55fb-08c7-12df-ece93a402e50",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "80e7f50a-3e99-d5ac-cf97-f8a4b4f9e6c7",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "782001bc-f712-50ae-04f5-9a488f3ef4aa",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "30e48e16-2df7-207e-7a3d-1650ef0c1ed8",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "04181caa-fcc1-c6c8-743e-a903eff368de",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "183897",
+          "status": "success"
+        },
+        {
+          "patientId": "a3d34c1f-5421-e078-38ec-1498a5941dbe",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "57b21dea-ff00-6c3e-92d9-91c7627f53b2",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "2da86d63-34ae-b887-ddff-8f6f1e6990f1",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "183897",
+          "status": "success"
+        },
+        {
+          "patientId": "9f9dbdcb-23a1-82cc-b7bc-e0e420a95bd1",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "e83fe1b3-f94f-5591-f851-1da300e24e99",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "be874504-c868-ebfd-9a77-df6b1e5ff6cc",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "e6705c33-7349-8b12-484d-3b1f93227178",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "183897",
+          "status": "success"
+        },
+        {
+          "patientId": "406e8bad-81b5-7624-5b8a-4aeeb74028f5",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "5a0fd7a2-6bfd-af1e-7bb6-2060136302c3",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "20802592-1c31-7339-4c4c-2fe648e1a716",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "8c8e1c9a-b310-43c6-33a7-ad11bad21c40",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "edc17058-55fb-08c7-12df-ece93a402e50",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "80e7f50a-3e99-d5ac-cf97-f8a4b4f9e6c7",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "782001bc-f712-50ae-04f5-9a488f3ef4aa",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "30e48e16-2df7-207e-7a3d-1650ef0c1ed8",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "04181caa-fcc1-c6c8-743e-a903eff368de",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "183897",
+          "status": "success"
+        },
+        {
+          "patientId": "a3d34c1f-5421-e078-38ec-1498a5941dbe",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "57b21dea-ff00-6c3e-92d9-91c7627f53b2",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "2da86d63-34ae-b887-ddff-8f6f1e6990f1",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "183897",
+          "status": "success"
+        },
+        {
+          "patientId": "9f9dbdcb-23a1-82cc-b7bc-e0e420a95bd1",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "e83fe1b3-f94f-5591-f851-1da300e24e99",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "be874504-c868-ebfd-9a77-df6b1e5ff6cc",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "e6705c33-7349-8b12-484d-3b1f93227178",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "183897",
+          "status": "success"
+        },
+        {
+          "patientId": "406e8bad-81b5-7624-5b8a-4aeeb74028f5",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "5a0fd7a2-6bfd-af1e-7bb6-2060136302c3",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "20802592-1c31-7339-4c4c-2fe648e1a716",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "8c8e1c9a-b310-43c6-33a7-ad11bad21c40",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "edc17058-55fb-08c7-12df-ece93a402e50",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "80e7f50a-3e99-d5ac-cf97-f8a4b4f9e6c7",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "782001bc-f712-50ae-04f5-9a488f3ef4aa",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "30e48e16-2df7-207e-7a3d-1650ef0c1ed8",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "04181caa-fcc1-c6c8-743e-a903eff368de",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "183897",
+          "status": "success"
+        },
+        {
+          "patientId": "a3d34c1f-5421-e078-38ec-1498a5941dbe",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "57b21dea-ff00-6c3e-92d9-91c7627f53b2",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "2da86d63-34ae-b887-ddff-8f6f1e6990f1",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "183897",
+          "status": "success"
+        },
+        {
+          "patientId": "9f9dbdcb-23a1-82cc-b7bc-e0e420a95bd1",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "e83fe1b3-f94f-5591-f851-1da300e24e99",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "be874504-c868-ebfd-9a77-df6b1e5ff6cc",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "e6705c33-7349-8b12-484d-3b1f93227178",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "183897",
+          "status": "success"
+        },
+        {
+          "patientId": "406e8bad-81b5-7624-5b8a-4aeeb74028f5",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "5a0fd7a2-6bfd-af1e-7bb6-2060136302c3",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "20802592-1c31-7339-4c4c-2fe648e1a716",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "8c8e1c9a-b310-43c6-33a7-ad11bad21c40",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "edc17058-55fb-08c7-12df-ece93a402e50",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "80e7f50a-3e99-d5ac-cf97-f8a4b4f9e6c7",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "782001bc-f712-50ae-04f5-9a488f3ef4aa",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "30e48e16-2df7-207e-7a3d-1650ef0c1ed8",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "04181caa-fcc1-c6c8-743e-a903eff368de",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "183897",
+          "status": "success"
+        },
+        {
+          "patientId": "a3d34c1f-5421-e078-38ec-1498a5941dbe",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "57b21dea-ff00-6c3e-92d9-91c7627f53b2",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "2da86d63-34ae-b887-ddff-8f6f1e6990f1",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "183897",
+          "status": "success"
+        },
+        {
+          "patientId": "9f9dbdcb-23a1-82cc-b7bc-e0e420a95bd1",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "e83fe1b3-f94f-5591-f851-1da300e24e99",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "be874504-c868-ebfd-9a77-df6b1e5ff6cc",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "e6705c33-7349-8b12-484d-3b1f93227178",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "183897",
+          "status": "success"
+        },
+        {
+          "patientId": "406e8bad-81b5-7624-5b8a-4aeeb74028f5",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "5a0fd7a2-6bfd-af1e-7bb6-2060136302c3",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "20802592-1c31-7339-4c4c-2fe648e1a716",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "8c8e1c9a-b310-43c6-33a7-ad11bad21c40",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "edc17058-55fb-08c7-12df-ece93a402e50",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "80e7f50a-3e99-d5ac-cf97-f8a4b4f9e6c7",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "782001bc-f712-50ae-04f5-9a488f3ef4aa",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "30e48e16-2df7-207e-7a3d-1650ef0c1ed8",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "04181caa-fcc1-c6c8-743e-a903eff368de",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "183897",
+          "status": "success"
+        },
+        {
+          "patientId": "a3d34c1f-5421-e078-38ec-1498a5941dbe",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "57b21dea-ff00-6c3e-92d9-91c7627f53b2",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "2da86d63-34ae-b887-ddff-8f6f1e6990f1",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "183897",
+          "status": "success"
+        },
+        {
+          "patientId": "9f9dbdcb-23a1-82cc-b7bc-e0e420a95bd1",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "e83fe1b3-f94f-5591-f851-1da300e24e99",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "be874504-c868-ebfd-9a77-df6b1e5ff6cc",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "e6705c33-7349-8b12-484d-3b1f93227178",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "183897",
+          "status": "success"
+        },
+        {
+          "patientId": "406e8bad-81b5-7624-5b8a-4aeeb74028f5",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "5a0fd7a2-6bfd-af1e-7bb6-2060136302c3",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "183909",
+          "status": "success"
+        },
+        {
+          "patientId": "20802592-1c31-7339-4c4c-2fe648e1a716",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "183909",
+          "status": "success"
+        }
+      ]
+    },
+    "hybridV4": {
+      "totalGas": "1294303632",
+      "routineGas": "14601040",
+      "sensitiveGas": "1279702592",
+      "routineCount": 80,
+      "sensitiveCount": 80,
+      "avgGasPerAccess": 8089397.7,
+      "avgRoutineGas": 182513,
+      "avgSensitiveGas": 15996282.4,
+      "accessCount": 160,
+      "successCount": 160,
+      "attempts": [
+        {
+          "patientId": "8c8e1c9a-b310-43c6-33a7-ad11bad21c40",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "16029662",
+          "status": "success"
+        },
+        {
+          "patientId": "edc17058-55fb-08c7-12df-ece93a402e50",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "15995860",
+          "status": "success"
+        },
+        {
+          "patientId": "80e7f50a-3e99-d5ac-cf97-f8a4b4f9e6c7",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "15995860",
+          "status": "success"
+        },
+        {
+          "patientId": "782001bc-f712-50ae-04f5-9a488f3ef4aa",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "15995860",
+          "status": "success"
+        },
+        {
+          "patientId": "30e48e16-2df7-207e-7a3d-1650ef0c1ed8",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "182516",
+          "status": "success"
+        },
+        {
+          "patientId": "04181caa-fcc1-c6c8-743e-a903eff368de",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "182504",
+          "status": "success"
+        },
+        {
+          "patientId": "a3d34c1f-5421-e078-38ec-1498a5941dbe",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "15995860",
+          "status": "success"
+        },
+        {
+          "patientId": "57b21dea-ff00-6c3e-92d9-91c7627f53b2",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "182516",
+          "status": "success"
+        },
+        {
+          "patientId": "2da86d63-34ae-b887-ddff-8f6f1e6990f1",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "182504",
+          "status": "success"
+        },
+        {
+          "patientId": "9f9dbdcb-23a1-82cc-b7bc-e0e420a95bd1",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "182516",
+          "status": "success"
+        },
+        {
+          "patientId": "e83fe1b3-f94f-5591-f851-1da300e24e99",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "182516",
+          "status": "success"
+        },
+        {
+          "patientId": "be874504-c868-ebfd-9a77-df6b1e5ff6cc",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "182516",
+          "status": "success"
+        },
+        {
+          "patientId": "e6705c33-7349-8b12-484d-3b1f93227178",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "15995859",
+          "status": "success"
+        },
+        {
+          "patientId": "406e8bad-81b5-7624-5b8a-4aeeb74028f5",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "182516",
+          "status": "success"
+        },
+        {
+          "patientId": "5a0fd7a2-6bfd-af1e-7bb6-2060136302c3",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "15995860",
+          "status": "success"
+        },
+        {
+          "patientId": "20802592-1c31-7339-4c4c-2fe648e1a716",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "15995860",
+          "status": "success"
+        },
+        {
+          "patientId": "8c8e1c9a-b310-43c6-33a7-ad11bad21c40",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "15995860",
+          "status": "success"
+        },
+        {
+          "patientId": "edc17058-55fb-08c7-12df-ece93a402e50",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "15995860",
+          "status": "success"
+        },
+        {
+          "patientId": "80e7f50a-3e99-d5ac-cf97-f8a4b4f9e6c7",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "15995860",
+          "status": "success"
+        },
+        {
+          "patientId": "782001bc-f712-50ae-04f5-9a488f3ef4aa",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "15995860",
+          "status": "success"
+        },
+        {
+          "patientId": "30e48e16-2df7-207e-7a3d-1650ef0c1ed8",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "182516",
+          "status": "success"
+        },
+        {
+          "patientId": "04181caa-fcc1-c6c8-743e-a903eff368de",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "182504",
+          "status": "success"
+        },
+        {
+          "patientId": "a3d34c1f-5421-e078-38ec-1498a5941dbe",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "15995860",
+          "status": "success"
+        },
+        {
+          "patientId": "57b21dea-ff00-6c3e-92d9-91c7627f53b2",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "182516",
+          "status": "success"
+        },
+        {
+          "patientId": "2da86d63-34ae-b887-ddff-8f6f1e6990f1",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "182504",
+          "status": "success"
+        },
+        {
+          "patientId": "9f9dbdcb-23a1-82cc-b7bc-e0e420a95bd1",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "182516",
+          "status": "success"
+        },
+        {
+          "patientId": "e83fe1b3-f94f-5591-f851-1da300e24e99",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "182516",
+          "status": "success"
+        },
+        {
+          "patientId": "be874504-c868-ebfd-9a77-df6b1e5ff6cc",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "182516",
+          "status": "success"
+        },
+        {
+          "patientId": "e6705c33-7349-8b12-484d-3b1f93227178",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "15995859",
+          "status": "success"
+        },
+        {
+          "patientId": "406e8bad-81b5-7624-5b8a-4aeeb74028f5",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "182516",
+          "status": "success"
+        },
+        {
+          "patientId": "5a0fd7a2-6bfd-af1e-7bb6-2060136302c3",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "15995860",
+          "status": "success"
+        },
+        {
+          "patientId": "20802592-1c31-7339-4c4c-2fe648e1a716",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "15995860",
+          "status": "success"
+        },
+        {
+          "patientId": "8c8e1c9a-b310-43c6-33a7-ad11bad21c40",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "15995860",
+          "status": "success"
+        },
+        {
+          "patientId": "edc17058-55fb-08c7-12df-ece93a402e50",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "15995860",
+          "status": "success"
+        },
+        {
+          "patientId": "80e7f50a-3e99-d5ac-cf97-f8a4b4f9e6c7",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "15995860",
+          "status": "success"
+        },
+        {
+          "patientId": "782001bc-f712-50ae-04f5-9a488f3ef4aa",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "15995860",
+          "status": "success"
+        },
+        {
+          "patientId": "30e48e16-2df7-207e-7a3d-1650ef0c1ed8",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "182516",
+          "status": "success"
+        },
+        {
+          "patientId": "04181caa-fcc1-c6c8-743e-a903eff368de",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "182504",
+          "status": "success"
+        },
+        {
+          "patientId": "a3d34c1f-5421-e078-38ec-1498a5941dbe",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "15995860",
+          "status": "success"
+        },
+        {
+          "patientId": "57b21dea-ff00-6c3e-92d9-91c7627f53b2",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "182516",
+          "status": "success"
+        },
+        {
+          "patientId": "2da86d63-34ae-b887-ddff-8f6f1e6990f1",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "182504",
+          "status": "success"
+        },
+        {
+          "patientId": "9f9dbdcb-23a1-82cc-b7bc-e0e420a95bd1",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "182516",
+          "status": "success"
+        },
+        {
+          "patientId": "e83fe1b3-f94f-5591-f851-1da300e24e99",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "182516",
+          "status": "success"
+        },
+        {
+          "patientId": "be874504-c868-ebfd-9a77-df6b1e5ff6cc",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "182516",
+          "status": "success"
+        },
+        {
+          "patientId": "e6705c33-7349-8b12-484d-3b1f93227178",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "15995859",
+          "status": "success"
+        },
+        {
+          "patientId": "406e8bad-81b5-7624-5b8a-4aeeb74028f5",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "182516",
+          "status": "success"
+        },
+        {
+          "patientId": "5a0fd7a2-6bfd-af1e-7bb6-2060136302c3",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "15995860",
+          "status": "success"
+        },
+        {
+          "patientId": "20802592-1c31-7339-4c4c-2fe648e1a716",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "15995860",
+          "status": "success"
+        },
+        {
+          "patientId": "8c8e1c9a-b310-43c6-33a7-ad11bad21c40",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "15995860",
+          "status": "success"
+        },
+        {
+          "patientId": "edc17058-55fb-08c7-12df-ece93a402e50",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "15995860",
+          "status": "success"
+        },
+        {
+          "patientId": "80e7f50a-3e99-d5ac-cf97-f8a4b4f9e6c7",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "15995860",
+          "status": "success"
+        },
+        {
+          "patientId": "782001bc-f712-50ae-04f5-9a488f3ef4aa",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "15995860",
+          "status": "success"
+        },
+        {
+          "patientId": "30e48e16-2df7-207e-7a3d-1650ef0c1ed8",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "182516",
+          "status": "success"
+        },
+        {
+          "patientId": "04181caa-fcc1-c6c8-743e-a903eff368de",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "182504",
+          "status": "success"
+        },
+        {
+          "patientId": "a3d34c1f-5421-e078-38ec-1498a5941dbe",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "15995860",
+          "status": "success"
+        },
+        {
+          "patientId": "57b21dea-ff00-6c3e-92d9-91c7627f53b2",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "182516",
+          "status": "success"
+        },
+        {
+          "patientId": "2da86d63-34ae-b887-ddff-8f6f1e6990f1",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "182504",
+          "status": "success"
+        },
+        {
+          "patientId": "9f9dbdcb-23a1-82cc-b7bc-e0e420a95bd1",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "182516",
+          "status": "success"
+        },
+        {
+          "patientId": "e83fe1b3-f94f-5591-f851-1da300e24e99",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "182516",
+          "status": "success"
+        },
+        {
+          "patientId": "be874504-c868-ebfd-9a77-df6b1e5ff6cc",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "182516",
+          "status": "success"
+        },
+        {
+          "patientId": "e6705c33-7349-8b12-484d-3b1f93227178",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "15995859",
+          "status": "success"
+        },
+        {
+          "patientId": "406e8bad-81b5-7624-5b8a-4aeeb74028f5",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "182516",
+          "status": "success"
+        },
+        {
+          "patientId": "5a0fd7a2-6bfd-af1e-7bb6-2060136302c3",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "15995860",
+          "status": "success"
+        },
+        {
+          "patientId": "20802592-1c31-7339-4c4c-2fe648e1a716",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "15995860",
+          "status": "success"
+        },
+        {
+          "patientId": "8c8e1c9a-b310-43c6-33a7-ad11bad21c40",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "15995860",
+          "status": "success"
+        },
+        {
+          "patientId": "edc17058-55fb-08c7-12df-ece93a402e50",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "15995860",
+          "status": "success"
+        },
+        {
+          "patientId": "80e7f50a-3e99-d5ac-cf97-f8a4b4f9e6c7",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "15995860",
+          "status": "success"
+        },
+        {
+          "patientId": "782001bc-f712-50ae-04f5-9a488f3ef4aa",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "15995860",
+          "status": "success"
+        },
+        {
+          "patientId": "30e48e16-2df7-207e-7a3d-1650ef0c1ed8",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "182516",
+          "status": "success"
+        },
+        {
+          "patientId": "04181caa-fcc1-c6c8-743e-a903eff368de",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "182504",
+          "status": "success"
+        },
+        {
+          "patientId": "a3d34c1f-5421-e078-38ec-1498a5941dbe",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "15995860",
+          "status": "success"
+        },
+        {
+          "patientId": "57b21dea-ff00-6c3e-92d9-91c7627f53b2",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "182516",
+          "status": "success"
+        },
+        {
+          "patientId": "2da86d63-34ae-b887-ddff-8f6f1e6990f1",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "182504",
+          "status": "success"
+        },
+        {
+          "patientId": "9f9dbdcb-23a1-82cc-b7bc-e0e420a95bd1",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "182516",
+          "status": "success"
+        },
+        {
+          "patientId": "e83fe1b3-f94f-5591-f851-1da300e24e99",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "182516",
+          "status": "success"
+        },
+        {
+          "patientId": "be874504-c868-ebfd-9a77-df6b1e5ff6cc",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "182516",
+          "status": "success"
+        },
+        {
+          "patientId": "e6705c33-7349-8b12-484d-3b1f93227178",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "15995859",
+          "status": "success"
+        },
+        {
+          "patientId": "406e8bad-81b5-7624-5b8a-4aeeb74028f5",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "182516",
+          "status": "success"
+        },
+        {
+          "patientId": "5a0fd7a2-6bfd-af1e-7bb6-2060136302c3",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "15995860",
+          "status": "success"
+        },
+        {
+          "patientId": "20802592-1c31-7339-4c4c-2fe648e1a716",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "15995860",
+          "status": "success"
+        },
+        {
+          "patientId": "8c8e1c9a-b310-43c6-33a7-ad11bad21c40",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "15995860",
+          "status": "success"
+        },
+        {
+          "patientId": "edc17058-55fb-08c7-12df-ece93a402e50",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "15995860",
+          "status": "success"
+        },
+        {
+          "patientId": "80e7f50a-3e99-d5ac-cf97-f8a4b4f9e6c7",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "15995860",
+          "status": "success"
+        },
+        {
+          "patientId": "782001bc-f712-50ae-04f5-9a488f3ef4aa",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "15995860",
+          "status": "success"
+        },
+        {
+          "patientId": "30e48e16-2df7-207e-7a3d-1650ef0c1ed8",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "182516",
+          "status": "success"
+        },
+        {
+          "patientId": "04181caa-fcc1-c6c8-743e-a903eff368de",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "182504",
+          "status": "success"
+        },
+        {
+          "patientId": "a3d34c1f-5421-e078-38ec-1498a5941dbe",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "15995860",
+          "status": "success"
+        },
+        {
+          "patientId": "57b21dea-ff00-6c3e-92d9-91c7627f53b2",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "182516",
+          "status": "success"
+        },
+        {
+          "patientId": "2da86d63-34ae-b887-ddff-8f6f1e6990f1",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "182504",
+          "status": "success"
+        },
+        {
+          "patientId": "9f9dbdcb-23a1-82cc-b7bc-e0e420a95bd1",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "182516",
+          "status": "success"
+        },
+        {
+          "patientId": "e83fe1b3-f94f-5591-f851-1da300e24e99",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "182516",
+          "status": "success"
+        },
+        {
+          "patientId": "be874504-c868-ebfd-9a77-df6b1e5ff6cc",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "182516",
+          "status": "success"
+        },
+        {
+          "patientId": "e6705c33-7349-8b12-484d-3b1f93227178",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "15995859",
+          "status": "success"
+        },
+        {
+          "patientId": "406e8bad-81b5-7624-5b8a-4aeeb74028f5",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "182516",
+          "status": "success"
+        },
+        {
+          "patientId": "5a0fd7a2-6bfd-af1e-7bb6-2060136302c3",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "15995860",
+          "status": "success"
+        },
+        {
+          "patientId": "20802592-1c31-7339-4c4c-2fe648e1a716",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "15995860",
+          "status": "success"
+        },
+        {
+          "patientId": "8c8e1c9a-b310-43c6-33a7-ad11bad21c40",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "15995860",
+          "status": "success"
+        },
+        {
+          "patientId": "edc17058-55fb-08c7-12df-ece93a402e50",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "15995860",
+          "status": "success"
+        },
+        {
+          "patientId": "80e7f50a-3e99-d5ac-cf97-f8a4b4f9e6c7",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "15995860",
+          "status": "success"
+        },
+        {
+          "patientId": "782001bc-f712-50ae-04f5-9a488f3ef4aa",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "15995860",
+          "status": "success"
+        },
+        {
+          "patientId": "30e48e16-2df7-207e-7a3d-1650ef0c1ed8",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "182516",
+          "status": "success"
+        },
+        {
+          "patientId": "04181caa-fcc1-c6c8-743e-a903eff368de",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "182504",
+          "status": "success"
+        },
+        {
+          "patientId": "a3d34c1f-5421-e078-38ec-1498a5941dbe",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "15995860",
+          "status": "success"
+        },
+        {
+          "patientId": "57b21dea-ff00-6c3e-92d9-91c7627f53b2",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "182516",
+          "status": "success"
+        },
+        {
+          "patientId": "2da86d63-34ae-b887-ddff-8f6f1e6990f1",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "182504",
+          "status": "success"
+        },
+        {
+          "patientId": "9f9dbdcb-23a1-82cc-b7bc-e0e420a95bd1",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "182516",
+          "status": "success"
+        },
+        {
+          "patientId": "e83fe1b3-f94f-5591-f851-1da300e24e99",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "182516",
+          "status": "success"
+        },
+        {
+          "patientId": "be874504-c868-ebfd-9a77-df6b1e5ff6cc",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "182516",
+          "status": "success"
+        },
+        {
+          "patientId": "e6705c33-7349-8b12-484d-3b1f93227178",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "15995859",
+          "status": "success"
+        },
+        {
+          "patientId": "406e8bad-81b5-7624-5b8a-4aeeb74028f5",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "182516",
+          "status": "success"
+        },
+        {
+          "patientId": "5a0fd7a2-6bfd-af1e-7bb6-2060136302c3",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "15995860",
+          "status": "success"
+        },
+        {
+          "patientId": "20802592-1c31-7339-4c4c-2fe648e1a716",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "15995860",
+          "status": "success"
+        },
+        {
+          "patientId": "8c8e1c9a-b310-43c6-33a7-ad11bad21c40",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "15995860",
+          "status": "success"
+        },
+        {
+          "patientId": "edc17058-55fb-08c7-12df-ece93a402e50",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "15995860",
+          "status": "success"
+        },
+        {
+          "patientId": "80e7f50a-3e99-d5ac-cf97-f8a4b4f9e6c7",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "15995860",
+          "status": "success"
+        },
+        {
+          "patientId": "782001bc-f712-50ae-04f5-9a488f3ef4aa",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "15995860",
+          "status": "success"
+        },
+        {
+          "patientId": "30e48e16-2df7-207e-7a3d-1650ef0c1ed8",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "182516",
+          "status": "success"
+        },
+        {
+          "patientId": "04181caa-fcc1-c6c8-743e-a903eff368de",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "182504",
+          "status": "success"
+        },
+        {
+          "patientId": "a3d34c1f-5421-e078-38ec-1498a5941dbe",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "15995860",
+          "status": "success"
+        },
+        {
+          "patientId": "57b21dea-ff00-6c3e-92d9-91c7627f53b2",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "182516",
+          "status": "success"
+        },
+        {
+          "patientId": "2da86d63-34ae-b887-ddff-8f6f1e6990f1",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "182504",
+          "status": "success"
+        },
+        {
+          "patientId": "9f9dbdcb-23a1-82cc-b7bc-e0e420a95bd1",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "182516",
+          "status": "success"
+        },
+        {
+          "patientId": "e83fe1b3-f94f-5591-f851-1da300e24e99",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "182516",
+          "status": "success"
+        },
+        {
+          "patientId": "be874504-c868-ebfd-9a77-df6b1e5ff6cc",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "182516",
+          "status": "success"
+        },
+        {
+          "patientId": "e6705c33-7349-8b12-484d-3b1f93227178",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "15995859",
+          "status": "success"
+        },
+        {
+          "patientId": "406e8bad-81b5-7624-5b8a-4aeeb74028f5",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "182516",
+          "status": "success"
+        },
+        {
+          "patientId": "5a0fd7a2-6bfd-af1e-7bb6-2060136302c3",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "15995860",
+          "status": "success"
+        },
+        {
+          "patientId": "20802592-1c31-7339-4c4c-2fe648e1a716",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "15995860",
+          "status": "success"
+        },
+        {
+          "patientId": "8c8e1c9a-b310-43c6-33a7-ad11bad21c40",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "15995860",
+          "status": "success"
+        },
+        {
+          "patientId": "edc17058-55fb-08c7-12df-ece93a402e50",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "15995860",
+          "status": "success"
+        },
+        {
+          "patientId": "80e7f50a-3e99-d5ac-cf97-f8a4b4f9e6c7",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "15995860",
+          "status": "success"
+        },
+        {
+          "patientId": "782001bc-f712-50ae-04f5-9a488f3ef4aa",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "15995860",
+          "status": "success"
+        },
+        {
+          "patientId": "30e48e16-2df7-207e-7a3d-1650ef0c1ed8",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "182516",
+          "status": "success"
+        },
+        {
+          "patientId": "04181caa-fcc1-c6c8-743e-a903eff368de",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "182504",
+          "status": "success"
+        },
+        {
+          "patientId": "a3d34c1f-5421-e078-38ec-1498a5941dbe",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "15995860",
+          "status": "success"
+        },
+        {
+          "patientId": "57b21dea-ff00-6c3e-92d9-91c7627f53b2",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "182516",
+          "status": "success"
+        },
+        {
+          "patientId": "2da86d63-34ae-b887-ddff-8f6f1e6990f1",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "182504",
+          "status": "success"
+        },
+        {
+          "patientId": "9f9dbdcb-23a1-82cc-b7bc-e0e420a95bd1",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "182516",
+          "status": "success"
+        },
+        {
+          "patientId": "e83fe1b3-f94f-5591-f851-1da300e24e99",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "182516",
+          "status": "success"
+        },
+        {
+          "patientId": "be874504-c868-ebfd-9a77-df6b1e5ff6cc",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "182516",
+          "status": "success"
+        },
+        {
+          "patientId": "e6705c33-7349-8b12-484d-3b1f93227178",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "15995859",
+          "status": "success"
+        },
+        {
+          "patientId": "406e8bad-81b5-7624-5b8a-4aeeb74028f5",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "182516",
+          "status": "success"
+        },
+        {
+          "patientId": "5a0fd7a2-6bfd-af1e-7bb6-2060136302c3",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "15995860",
+          "status": "success"
+        },
+        {
+          "patientId": "20802592-1c31-7339-4c4c-2fe648e1a716",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "15995860",
+          "status": "success"
+        },
+        {
+          "patientId": "8c8e1c9a-b310-43c6-33a7-ad11bad21c40",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "15995860",
+          "status": "success"
+        },
+        {
+          "patientId": "edc17058-55fb-08c7-12df-ece93a402e50",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "15995860",
+          "status": "success"
+        },
+        {
+          "patientId": "80e7f50a-3e99-d5ac-cf97-f8a4b4f9e6c7",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "15995860",
+          "status": "success"
+        },
+        {
+          "patientId": "782001bc-f712-50ae-04f5-9a488f3ef4aa",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "15995860",
+          "status": "success"
+        },
+        {
+          "patientId": "30e48e16-2df7-207e-7a3d-1650ef0c1ed8",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "182516",
+          "status": "success"
+        },
+        {
+          "patientId": "04181caa-fcc1-c6c8-743e-a903eff368de",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "182504",
+          "status": "success"
+        },
+        {
+          "patientId": "a3d34c1f-5421-e078-38ec-1498a5941dbe",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "15995860",
+          "status": "success"
+        },
+        {
+          "patientId": "57b21dea-ff00-6c3e-92d9-91c7627f53b2",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "182516",
+          "status": "success"
+        },
+        {
+          "patientId": "2da86d63-34ae-b887-ddff-8f6f1e6990f1",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "182504",
+          "status": "success"
+        },
+        {
+          "patientId": "9f9dbdcb-23a1-82cc-b7bc-e0e420a95bd1",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "182516",
+          "status": "success"
+        },
+        {
+          "patientId": "e83fe1b3-f94f-5591-f851-1da300e24e99",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "182516",
+          "status": "success"
+        },
+        {
+          "patientId": "be874504-c868-ebfd-9a77-df6b1e5ff6cc",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "182516",
+          "status": "success"
+        },
+        {
+          "patientId": "e6705c33-7349-8b12-484d-3b1f93227178",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "15995859",
+          "status": "success"
+        },
+        {
+          "patientId": "406e8bad-81b5-7624-5b8a-4aeeb74028f5",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "182516",
+          "status": "success"
+        },
+        {
+          "patientId": "5a0fd7a2-6bfd-af1e-7bb6-2060136302c3",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "15995860",
+          "status": "success"
+        },
+        {
+          "patientId": "20802592-1c31-7339-4c4c-2fe648e1a716",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "15995860",
+          "status": "success"
+        }
+      ]
+    },
+    "allZK": {
+      "totalGas": "2563651692",
+      "accessCount": 160,
+      "successCount": 160,
+      "avgGasPerAccess": 16022823.075,
+      "attempts": [
+        {
+          "patientId": "8c8e1c9a-b310-43c6-33a7-ad11bad21c40",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "16076082",
+          "status": "success"
+        },
+        {
+          "patientId": "edc17058-55fb-08c7-12df-ece93a402e50",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "16042280",
+          "status": "success"
+        },
+        {
+          "patientId": "80e7f50a-3e99-d5ac-cf97-f8a4b4f9e6c7",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "16042280",
+          "status": "success"
+        },
+        {
+          "patientId": "782001bc-f712-50ae-04f5-9a488f3ef4aa",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "16042280",
+          "status": "success"
+        },
+        {
+          "patientId": "30e48e16-2df7-207e-7a3d-1650ef0c1ed8",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "16002944",
+          "status": "success"
+        },
+        {
+          "patientId": "04181caa-fcc1-c6c8-743e-a903eff368de",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "16002943",
+          "status": "success"
+        },
+        {
+          "patientId": "a3d34c1f-5421-e078-38ec-1498a5941dbe",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "16042280",
+          "status": "success"
+        },
+        {
+          "patientId": "57b21dea-ff00-6c3e-92d9-91c7627f53b2",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "16002944",
+          "status": "success"
+        },
+        {
+          "patientId": "2da86d63-34ae-b887-ddff-8f6f1e6990f1",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "16002943",
+          "status": "success"
+        },
+        {
+          "patientId": "9f9dbdcb-23a1-82cc-b7bc-e0e420a95bd1",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "16002944",
+          "status": "success"
+        },
+        {
+          "patientId": "e83fe1b3-f94f-5591-f851-1da300e24e99",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "16002944",
+          "status": "success"
+        },
+        {
+          "patientId": "be874504-c868-ebfd-9a77-df6b1e5ff6cc",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "16002944",
+          "status": "success"
+        },
+        {
+          "patientId": "e6705c33-7349-8b12-484d-3b1f93227178",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "16042279",
+          "status": "success"
+        },
+        {
+          "patientId": "406e8bad-81b5-7624-5b8a-4aeeb74028f5",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "16002944",
+          "status": "success"
+        },
+        {
+          "patientId": "5a0fd7a2-6bfd-af1e-7bb6-2060136302c3",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "16042280",
+          "status": "success"
+        },
+        {
+          "patientId": "20802592-1c31-7339-4c4c-2fe648e1a716",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "16042280",
+          "status": "success"
+        },
+        {
+          "patientId": "8c8e1c9a-b310-43c6-33a7-ad11bad21c40",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "16042280",
+          "status": "success"
+        },
+        {
+          "patientId": "edc17058-55fb-08c7-12df-ece93a402e50",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "16042280",
+          "status": "success"
+        },
+        {
+          "patientId": "80e7f50a-3e99-d5ac-cf97-f8a4b4f9e6c7",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "16042280",
+          "status": "success"
+        },
+        {
+          "patientId": "782001bc-f712-50ae-04f5-9a488f3ef4aa",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "16042280",
+          "status": "success"
+        },
+        {
+          "patientId": "30e48e16-2df7-207e-7a3d-1650ef0c1ed8",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "16002944",
+          "status": "success"
+        },
+        {
+          "patientId": "04181caa-fcc1-c6c8-743e-a903eff368de",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "16002943",
+          "status": "success"
+        },
+        {
+          "patientId": "a3d34c1f-5421-e078-38ec-1498a5941dbe",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "16042280",
+          "status": "success"
+        },
+        {
+          "patientId": "57b21dea-ff00-6c3e-92d9-91c7627f53b2",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "16002944",
+          "status": "success"
+        },
+        {
+          "patientId": "2da86d63-34ae-b887-ddff-8f6f1e6990f1",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "16002943",
+          "status": "success"
+        },
+        {
+          "patientId": "9f9dbdcb-23a1-82cc-b7bc-e0e420a95bd1",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "16002944",
+          "status": "success"
+        },
+        {
+          "patientId": "e83fe1b3-f94f-5591-f851-1da300e24e99",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "16002944",
+          "status": "success"
+        },
+        {
+          "patientId": "be874504-c868-ebfd-9a77-df6b1e5ff6cc",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "16002944",
+          "status": "success"
+        },
+        {
+          "patientId": "e6705c33-7349-8b12-484d-3b1f93227178",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "16042279",
+          "status": "success"
+        },
+        {
+          "patientId": "406e8bad-81b5-7624-5b8a-4aeeb74028f5",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "16002944",
+          "status": "success"
+        },
+        {
+          "patientId": "5a0fd7a2-6bfd-af1e-7bb6-2060136302c3",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "16042280",
+          "status": "success"
+        },
+        {
+          "patientId": "20802592-1c31-7339-4c4c-2fe648e1a716",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "16042280",
+          "status": "success"
+        },
+        {
+          "patientId": "8c8e1c9a-b310-43c6-33a7-ad11bad21c40",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "16042280",
+          "status": "success"
+        },
+        {
+          "patientId": "edc17058-55fb-08c7-12df-ece93a402e50",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "16042280",
+          "status": "success"
+        },
+        {
+          "patientId": "80e7f50a-3e99-d5ac-cf97-f8a4b4f9e6c7",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "16042280",
+          "status": "success"
+        },
+        {
+          "patientId": "782001bc-f712-50ae-04f5-9a488f3ef4aa",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "16042280",
+          "status": "success"
+        },
+        {
+          "patientId": "30e48e16-2df7-207e-7a3d-1650ef0c1ed8",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "16002944",
+          "status": "success"
+        },
+        {
+          "patientId": "04181caa-fcc1-c6c8-743e-a903eff368de",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "16002943",
+          "status": "success"
+        },
+        {
+          "patientId": "a3d34c1f-5421-e078-38ec-1498a5941dbe",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "16042280",
+          "status": "success"
+        },
+        {
+          "patientId": "57b21dea-ff00-6c3e-92d9-91c7627f53b2",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "16002944",
+          "status": "success"
+        },
+        {
+          "patientId": "2da86d63-34ae-b887-ddff-8f6f1e6990f1",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "16002943",
+          "status": "success"
+        },
+        {
+          "patientId": "9f9dbdcb-23a1-82cc-b7bc-e0e420a95bd1",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "16002944",
+          "status": "success"
+        },
+        {
+          "patientId": "e83fe1b3-f94f-5591-f851-1da300e24e99",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "16002944",
+          "status": "success"
+        },
+        {
+          "patientId": "be874504-c868-ebfd-9a77-df6b1e5ff6cc",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "16002944",
+          "status": "success"
+        },
+        {
+          "patientId": "e6705c33-7349-8b12-484d-3b1f93227178",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "16042279",
+          "status": "success"
+        },
+        {
+          "patientId": "406e8bad-81b5-7624-5b8a-4aeeb74028f5",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "16002944",
+          "status": "success"
+        },
+        {
+          "patientId": "5a0fd7a2-6bfd-af1e-7bb6-2060136302c3",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "16042280",
+          "status": "success"
+        },
+        {
+          "patientId": "20802592-1c31-7339-4c4c-2fe648e1a716",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "16042280",
+          "status": "success"
+        },
+        {
+          "patientId": "8c8e1c9a-b310-43c6-33a7-ad11bad21c40",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "16042280",
+          "status": "success"
+        },
+        {
+          "patientId": "edc17058-55fb-08c7-12df-ece93a402e50",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "16042280",
+          "status": "success"
+        },
+        {
+          "patientId": "80e7f50a-3e99-d5ac-cf97-f8a4b4f9e6c7",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "16042280",
+          "status": "success"
+        },
+        {
+          "patientId": "782001bc-f712-50ae-04f5-9a488f3ef4aa",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "16042280",
+          "status": "success"
+        },
+        {
+          "patientId": "30e48e16-2df7-207e-7a3d-1650ef0c1ed8",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "16002944",
+          "status": "success"
+        },
+        {
+          "patientId": "04181caa-fcc1-c6c8-743e-a903eff368de",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "16002943",
+          "status": "success"
+        },
+        {
+          "patientId": "a3d34c1f-5421-e078-38ec-1498a5941dbe",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "16042280",
+          "status": "success"
+        },
+        {
+          "patientId": "57b21dea-ff00-6c3e-92d9-91c7627f53b2",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "16002944",
+          "status": "success"
+        },
+        {
+          "patientId": "2da86d63-34ae-b887-ddff-8f6f1e6990f1",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "16002943",
+          "status": "success"
+        },
+        {
+          "patientId": "9f9dbdcb-23a1-82cc-b7bc-e0e420a95bd1",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "16002944",
+          "status": "success"
+        },
+        {
+          "patientId": "e83fe1b3-f94f-5591-f851-1da300e24e99",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "16002944",
+          "status": "success"
+        },
+        {
+          "patientId": "be874504-c868-ebfd-9a77-df6b1e5ff6cc",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "16002944",
+          "status": "success"
+        },
+        {
+          "patientId": "e6705c33-7349-8b12-484d-3b1f93227178",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "16042279",
+          "status": "success"
+        },
+        {
+          "patientId": "406e8bad-81b5-7624-5b8a-4aeeb74028f5",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "16002944",
+          "status": "success"
+        },
+        {
+          "patientId": "5a0fd7a2-6bfd-af1e-7bb6-2060136302c3",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "16042280",
+          "status": "success"
+        },
+        {
+          "patientId": "20802592-1c31-7339-4c4c-2fe648e1a716",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "16042280",
+          "status": "success"
+        },
+        {
+          "patientId": "8c8e1c9a-b310-43c6-33a7-ad11bad21c40",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "16042280",
+          "status": "success"
+        },
+        {
+          "patientId": "edc17058-55fb-08c7-12df-ece93a402e50",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "16042280",
+          "status": "success"
+        },
+        {
+          "patientId": "80e7f50a-3e99-d5ac-cf97-f8a4b4f9e6c7",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "16042280",
+          "status": "success"
+        },
+        {
+          "patientId": "782001bc-f712-50ae-04f5-9a488f3ef4aa",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "16042280",
+          "status": "success"
+        },
+        {
+          "patientId": "30e48e16-2df7-207e-7a3d-1650ef0c1ed8",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "16002944",
+          "status": "success"
+        },
+        {
+          "patientId": "04181caa-fcc1-c6c8-743e-a903eff368de",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "16002943",
+          "status": "success"
+        },
+        {
+          "patientId": "a3d34c1f-5421-e078-38ec-1498a5941dbe",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "16042280",
+          "status": "success"
+        },
+        {
+          "patientId": "57b21dea-ff00-6c3e-92d9-91c7627f53b2",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "16002944",
+          "status": "success"
+        },
+        {
+          "patientId": "2da86d63-34ae-b887-ddff-8f6f1e6990f1",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "16002943",
+          "status": "success"
+        },
+        {
+          "patientId": "9f9dbdcb-23a1-82cc-b7bc-e0e420a95bd1",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "16002944",
+          "status": "success"
+        },
+        {
+          "patientId": "e83fe1b3-f94f-5591-f851-1da300e24e99",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "16002944",
+          "status": "success"
+        },
+        {
+          "patientId": "be874504-c868-ebfd-9a77-df6b1e5ff6cc",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "16002944",
+          "status": "success"
+        },
+        {
+          "patientId": "e6705c33-7349-8b12-484d-3b1f93227178",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "16042279",
+          "status": "success"
+        },
+        {
+          "patientId": "406e8bad-81b5-7624-5b8a-4aeeb74028f5",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "16002944",
+          "status": "success"
+        },
+        {
+          "patientId": "5a0fd7a2-6bfd-af1e-7bb6-2060136302c3",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "16042280",
+          "status": "success"
+        },
+        {
+          "patientId": "20802592-1c31-7339-4c4c-2fe648e1a716",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "16042280",
+          "status": "success"
+        },
+        {
+          "patientId": "8c8e1c9a-b310-43c6-33a7-ad11bad21c40",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "16042280",
+          "status": "success"
+        },
+        {
+          "patientId": "edc17058-55fb-08c7-12df-ece93a402e50",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "16042280",
+          "status": "success"
+        },
+        {
+          "patientId": "80e7f50a-3e99-d5ac-cf97-f8a4b4f9e6c7",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "16042280",
+          "status": "success"
+        },
+        {
+          "patientId": "782001bc-f712-50ae-04f5-9a488f3ef4aa",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "16042280",
+          "status": "success"
+        },
+        {
+          "patientId": "30e48e16-2df7-207e-7a3d-1650ef0c1ed8",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "16002944",
+          "status": "success"
+        },
+        {
+          "patientId": "04181caa-fcc1-c6c8-743e-a903eff368de",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "16002943",
+          "status": "success"
+        },
+        {
+          "patientId": "a3d34c1f-5421-e078-38ec-1498a5941dbe",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "16042280",
+          "status": "success"
+        },
+        {
+          "patientId": "57b21dea-ff00-6c3e-92d9-91c7627f53b2",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "16002944",
+          "status": "success"
+        },
+        {
+          "patientId": "2da86d63-34ae-b887-ddff-8f6f1e6990f1",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "16002943",
+          "status": "success"
+        },
+        {
+          "patientId": "9f9dbdcb-23a1-82cc-b7bc-e0e420a95bd1",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "16002944",
+          "status": "success"
+        },
+        {
+          "patientId": "e83fe1b3-f94f-5591-f851-1da300e24e99",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "16002944",
+          "status": "success"
+        },
+        {
+          "patientId": "be874504-c868-ebfd-9a77-df6b1e5ff6cc",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "16002944",
+          "status": "success"
+        },
+        {
+          "patientId": "e6705c33-7349-8b12-484d-3b1f93227178",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "16042279",
+          "status": "success"
+        },
+        {
+          "patientId": "406e8bad-81b5-7624-5b8a-4aeeb74028f5",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "16002944",
+          "status": "success"
+        },
+        {
+          "patientId": "5a0fd7a2-6bfd-af1e-7bb6-2060136302c3",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "16042280",
+          "status": "success"
+        },
+        {
+          "patientId": "20802592-1c31-7339-4c4c-2fe648e1a716",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "16042280",
+          "status": "success"
+        },
+        {
+          "patientId": "8c8e1c9a-b310-43c6-33a7-ad11bad21c40",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "16042280",
+          "status": "success"
+        },
+        {
+          "patientId": "edc17058-55fb-08c7-12df-ece93a402e50",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "16042280",
+          "status": "success"
+        },
+        {
+          "patientId": "80e7f50a-3e99-d5ac-cf97-f8a4b4f9e6c7",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "16042280",
+          "status": "success"
+        },
+        {
+          "patientId": "782001bc-f712-50ae-04f5-9a488f3ef4aa",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "16042280",
+          "status": "success"
+        },
+        {
+          "patientId": "30e48e16-2df7-207e-7a3d-1650ef0c1ed8",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "16002944",
+          "status": "success"
+        },
+        {
+          "patientId": "04181caa-fcc1-c6c8-743e-a903eff368de",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "16002943",
+          "status": "success"
+        },
+        {
+          "patientId": "a3d34c1f-5421-e078-38ec-1498a5941dbe",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "16042280",
+          "status": "success"
+        },
+        {
+          "patientId": "57b21dea-ff00-6c3e-92d9-91c7627f53b2",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "16002944",
+          "status": "success"
+        },
+        {
+          "patientId": "2da86d63-34ae-b887-ddff-8f6f1e6990f1",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "16002943",
+          "status": "success"
+        },
+        {
+          "patientId": "9f9dbdcb-23a1-82cc-b7bc-e0e420a95bd1",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "16002944",
+          "status": "success"
+        },
+        {
+          "patientId": "e83fe1b3-f94f-5591-f851-1da300e24e99",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "16002944",
+          "status": "success"
+        },
+        {
+          "patientId": "be874504-c868-ebfd-9a77-df6b1e5ff6cc",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "16002944",
+          "status": "success"
+        },
+        {
+          "patientId": "e6705c33-7349-8b12-484d-3b1f93227178",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "16042279",
+          "status": "success"
+        },
+        {
+          "patientId": "406e8bad-81b5-7624-5b8a-4aeeb74028f5",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "16002944",
+          "status": "success"
+        },
+        {
+          "patientId": "5a0fd7a2-6bfd-af1e-7bb6-2060136302c3",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "16042280",
+          "status": "success"
+        },
+        {
+          "patientId": "20802592-1c31-7339-4c4c-2fe648e1a716",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "16042280",
+          "status": "success"
+        },
+        {
+          "patientId": "8c8e1c9a-b310-43c6-33a7-ad11bad21c40",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "16042280",
+          "status": "success"
+        },
+        {
+          "patientId": "edc17058-55fb-08c7-12df-ece93a402e50",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "16042280",
+          "status": "success"
+        },
+        {
+          "patientId": "80e7f50a-3e99-d5ac-cf97-f8a4b4f9e6c7",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "16042280",
+          "status": "success"
+        },
+        {
+          "patientId": "782001bc-f712-50ae-04f5-9a488f3ef4aa",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "16042280",
+          "status": "success"
+        },
+        {
+          "patientId": "30e48e16-2df7-207e-7a3d-1650ef0c1ed8",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "16002944",
+          "status": "success"
+        },
+        {
+          "patientId": "04181caa-fcc1-c6c8-743e-a903eff368de",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "16002943",
+          "status": "success"
+        },
+        {
+          "patientId": "a3d34c1f-5421-e078-38ec-1498a5941dbe",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "16042280",
+          "status": "success"
+        },
+        {
+          "patientId": "57b21dea-ff00-6c3e-92d9-91c7627f53b2",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "16002944",
+          "status": "success"
+        },
+        {
+          "patientId": "2da86d63-34ae-b887-ddff-8f6f1e6990f1",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "16002943",
+          "status": "success"
+        },
+        {
+          "patientId": "9f9dbdcb-23a1-82cc-b7bc-e0e420a95bd1",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "16002944",
+          "status": "success"
+        },
+        {
+          "patientId": "e83fe1b3-f94f-5591-f851-1da300e24e99",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "16002944",
+          "status": "success"
+        },
+        {
+          "patientId": "be874504-c868-ebfd-9a77-df6b1e5ff6cc",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "16002944",
+          "status": "success"
+        },
+        {
+          "patientId": "e6705c33-7349-8b12-484d-3b1f93227178",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "16042279",
+          "status": "success"
+        },
+        {
+          "patientId": "406e8bad-81b5-7624-5b8a-4aeeb74028f5",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "16002944",
+          "status": "success"
+        },
+        {
+          "patientId": "5a0fd7a2-6bfd-af1e-7bb6-2060136302c3",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "16042280",
+          "status": "success"
+        },
+        {
+          "patientId": "20802592-1c31-7339-4c4c-2fe648e1a716",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "16042280",
+          "status": "success"
+        },
+        {
+          "patientId": "8c8e1c9a-b310-43c6-33a7-ad11bad21c40",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "16042280",
+          "status": "success"
+        },
+        {
+          "patientId": "edc17058-55fb-08c7-12df-ece93a402e50",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "16042280",
+          "status": "success"
+        },
+        {
+          "patientId": "80e7f50a-3e99-d5ac-cf97-f8a4b4f9e6c7",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "16042280",
+          "status": "success"
+        },
+        {
+          "patientId": "782001bc-f712-50ae-04f5-9a488f3ef4aa",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "16042280",
+          "status": "success"
+        },
+        {
+          "patientId": "30e48e16-2df7-207e-7a3d-1650ef0c1ed8",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "16002944",
+          "status": "success"
+        },
+        {
+          "patientId": "04181caa-fcc1-c6c8-743e-a903eff368de",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "16002943",
+          "status": "success"
+        },
+        {
+          "patientId": "a3d34c1f-5421-e078-38ec-1498a5941dbe",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "16042280",
+          "status": "success"
+        },
+        {
+          "patientId": "57b21dea-ff00-6c3e-92d9-91c7627f53b2",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "16002944",
+          "status": "success"
+        },
+        {
+          "patientId": "2da86d63-34ae-b887-ddff-8f6f1e6990f1",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "16002943",
+          "status": "success"
+        },
+        {
+          "patientId": "9f9dbdcb-23a1-82cc-b7bc-e0e420a95bd1",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "16002944",
+          "status": "success"
+        },
+        {
+          "patientId": "e83fe1b3-f94f-5591-f851-1da300e24e99",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "16002944",
+          "status": "success"
+        },
+        {
+          "patientId": "be874504-c868-ebfd-9a77-df6b1e5ff6cc",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "16002944",
+          "status": "success"
+        },
+        {
+          "patientId": "e6705c33-7349-8b12-484d-3b1f93227178",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "16042279",
+          "status": "success"
+        },
+        {
+          "patientId": "406e8bad-81b5-7624-5b8a-4aeeb74028f5",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "16002944",
+          "status": "success"
+        },
+        {
+          "patientId": "5a0fd7a2-6bfd-af1e-7bb6-2060136302c3",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "16042280",
+          "status": "success"
+        },
+        {
+          "patientId": "20802592-1c31-7339-4c4c-2fe648e1a716",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "16042280",
+          "status": "success"
+        },
+        {
+          "patientId": "8c8e1c9a-b310-43c6-33a7-ad11bad21c40",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "16042280",
+          "status": "success"
+        },
+        {
+          "patientId": "edc17058-55fb-08c7-12df-ece93a402e50",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "16042280",
+          "status": "success"
+        },
+        {
+          "patientId": "80e7f50a-3e99-d5ac-cf97-f8a4b4f9e6c7",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "16042280",
+          "status": "success"
+        },
+        {
+          "patientId": "782001bc-f712-50ae-04f5-9a488f3ef4aa",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "16042280",
+          "status": "success"
+        },
+        {
+          "patientId": "30e48e16-2df7-207e-7a3d-1650ef0c1ed8",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "16002944",
+          "status": "success"
+        },
+        {
+          "patientId": "04181caa-fcc1-c6c8-743e-a903eff368de",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "16002943",
+          "status": "success"
+        },
+        {
+          "patientId": "a3d34c1f-5421-e078-38ec-1498a5941dbe",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "16042280",
+          "status": "success"
+        },
+        {
+          "patientId": "57b21dea-ff00-6c3e-92d9-91c7627f53b2",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "16002944",
+          "status": "success"
+        },
+        {
+          "patientId": "2da86d63-34ae-b887-ddff-8f6f1e6990f1",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "16002943",
+          "status": "success"
+        },
+        {
+          "patientId": "9f9dbdcb-23a1-82cc-b7bc-e0e420a95bd1",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "16002944",
+          "status": "success"
+        },
+        {
+          "patientId": "e83fe1b3-f94f-5591-f851-1da300e24e99",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "16002944",
+          "status": "success"
+        },
+        {
+          "patientId": "be874504-c868-ebfd-9a77-df6b1e5ff6cc",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "16002944",
+          "status": "success"
+        },
+        {
+          "patientId": "e6705c33-7349-8b12-484d-3b1f93227178",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "16042279",
+          "status": "success"
+        },
+        {
+          "patientId": "406e8bad-81b5-7624-5b8a-4aeeb74028f5",
+          "sensitivity": "ROUTINE",
+          "gasUsed": "16002944",
+          "status": "success"
+        },
+        {
+          "patientId": "5a0fd7a2-6bfd-af1e-7bb6-2060136302c3",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "16042280",
+          "status": "success"
+        },
+        {
+          "patientId": "20802592-1c31-7339-4c4c-2fe648e1a716",
+          "sensitivity": "SENSITIVE",
+          "gasUsed": "16042280",
+          "status": "success"
+        }
+      ]
+    }
+  },
+  "comparison": {
+    "avgGas": {
+      "allNonZK": 183906.75,
+      "hybridV4": 8089397.7,
+      "allZK": 16022823.075
+    },
+    "costPerAccess": {
+      "allNonZK": "0.000000202296596558",
+      "hybridV4": "0.000008898289263612",
+      "allZK": "0.000017625009163062"
+    },
+    "totalCost": "0.004276095120117576",
+    "hybridVsAllZK": {
+      "gasReduction": "49.51",
+      "costReduction": "49.51"
+    },
+    "hybridVsNonZK": {
+      "gasIncrease": "4298.64",
+      "costIncrease": "4298.64"
+    },
+    "successRates": {
+      "allNonZK": "160/160",
+      "hybridV4": "160/160",
+      "allZK": "160/160"
+    },
+    "hybridBreakdown": {
+      "routineAvg": 182513,
+      "sensitiveAvg": 15996282.4,
+      "routineCount": 80,
+      "sensitiveCount": 80
+    }
+  }
+}

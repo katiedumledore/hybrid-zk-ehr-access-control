@@ -1,0 +1,12 @@
+{
+  "network": "sepolia",
+  "chainId": 11155111,
+  "contract": "0x28472d124F9eBd34DfacD7b11eDe80E12fc337e1",
+  "deployer": "0x224C4D51861AD22c61D7355d6A68550050bDa367",
+  "timestamp": "2025-11-22T22:28:37.068Z",
+  "patientsStored": 16,
+  "model": "All Non-ZK (Pure RBAC)",
+  "storageGasUsed": "2942116",
+  "etherscanUrl": "https://sepolia.etherscan.io/address/0x28472d124F9eBd34DfacD7b11eDe80E12fc337e1",
+  "description": "Baseline with NO zero-knowledge proofs - testnet deployment"
+}
