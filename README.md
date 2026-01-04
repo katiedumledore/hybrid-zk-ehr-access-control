@@ -214,6 +214,35 @@ node scripts/testnet/testnet-privacy-benchmark.js
 
 *Assumptions: 50 gwei gas price, $3,000 ETH, 70% routine / 30% sensitive workload*
 
+## Experimental Mapping
+
+This section maps the experimental scripts in this repository to the tables and figures presented in the dissertation.
+
+### Core Benchmarking Scripts
+
+- **`scripts/benchmark-allnonzk.js`** - Generates baseline RBAC performance data
+  - Contributes to: **Table 4.1** (AllNonZK rows), **Figure 4.1**, **Table 4.11**
+
+- **`scripts/benchmark-hybrid.js`** - Measures hybrid model performance across routine and sensitive operations
+  - Contributes to: **Table 4.1** (Hybrid rows), **Table 4.2**, **Figure 4.2**, **Table 4.8**, **Table 4.10**
+
+- **`scripts/benchmark-allzk.js`** - Evaluates universal zero-knowledge model
+  - Contributes to: **Table 4.1** (AllZK rows), **Figure 4.1**, **Table 4.7**, **Figure 4.4**
+
+### Statistical Analysis
+
+- **`scripts/advanced-statistics.js`** - Performs comprehensive statistical analysis on collected benchmark data
+  - Generates: **Table 4.3** (CoV analysis), **Table 4.4** (success rates), **Table 4.7** (t-tests, Cohen's d), **Table 4.9** (privacy metrics)
+  - Produces: **Figure 4.5** (privacy metrics visualization)
+  - Generates: **Table 4.5**, **Figure 4.3**, **Table 4.8** (hospital scalability)
+
+
+### Testnet Validation
+
+- **`scripts/deploy-testnet.js`** + **`scripts/testnet-benchmark.js`** - Sepolia testnet deployment and validation
+  - Generates: **Table 4.1** (Testnet columns), **Table 4.6** (environment comparison)
+  - Validates: All testnet-specific metrics across **Tables 4.1-4.11**
+
 ---
 
 ## 🎨 Interactive Demo
